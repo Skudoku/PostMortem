@@ -1,0 +1,69 @@
+# Death Recap localization - Dutch
+line_killed_by=Gedood door {0} ({1})
+line_died_to=Gestorven aan {0} ({1})
+line_died_to_while=Gestorven aan {0} terwijl {1} ({2})
+
+Burning=Brandend
+Freezing=Bevriezend
+Cold=Koud
+Poisoned=Vergiftigd
+Wet=Nat
+Tarred=Bedekt met teer
+Smoked=Uitgerookt
+Encumbered=Overbeladen
+
+ht_Undefined=Onbekende Oorzaak
+ht_EnemyHit=Vijandelijke Klap
+ht_PlayerHit=Klap van een Speler
+ht_Fall=Val
+ht_Drowning=Verdrinking
+ht_Water=Water
+ht_Smoke=Rook
+ht_EdgeOfWorld=Rand van de Wereld
+ht_Impact=Inslag
+ht_Cart=Kar
+ht_Tree=Vallende Boom
+ht_Self=Je Eigen Hand
+ht_Structural=Instortende Constructie
+ht_Turret=Geschuttoren
+ht_Boat=Boot
+ht_Stalagtite=Vallende Stalactiet
+ht_Catapult=Katapult
+ht_CinderFire=Sintelvuur
+ht_AshlandsOcean=Ashlands Oceaan
+ht_Incinerator=Verbrandingsoven
+ht_DrawBridge=Ophaalbrug
+ht_AshlandsLava=Lava
+
+dmg_None=Onbekend
+
+tip_stamina_enemy=Je stamina was leeg toen de fatale klap kwam - je kunt niet ontwijken of blokkeren zonder stamina. Houd je stamina-balk in de gaten.
+tip_stamina_encumbered=Je was overbeladen en had weinig stamina tegelijk - overbelading verbruikt stamina sneller. Laat wat gewicht vallen voor een gevecht.
+tip_stamina_drowning=Je stamina raakte op tijdens het zwemmen. Blijf niet te ver van de kust zonder stamina achter de hand, en laat zware spullen vallen als je in de problemen zit.
+tip_wet_freezing=Je was doorweekt en stierf van de kou. Droog jezelf af bij een vuur voordat je de kou in gaat, of draag vorstbestendige uitrusting.
+tip_cold=De kou kroop naar binnen - een warmere cape of een vuur in de buurt had je wat extra tijd gegeven.
+tip_burning_tarred=Je was bedekt met teer en vloog in brand - teer plus vuur is een doodvonnis. Blijf uit de buurt van vuur zolang je met teer bedekt bent.
+tip_tarred=Je zat vast in teer, kon je niet vrij bewegen, terwijl iets je afmaakte. Kijk uit voor teerplassen.
+tip_poison_lowstamina=Gif tastte je gezondheid aan terwijl je bijna geen stamina meer had om te vluchten. Gifresistentiemede bewijst zijn nut in het moeras.
+tip_poison_majority=Gifschade is een uitputtingsslag - tegengif-mede of op tijd terugtrekken werken beide beter dan het gewoon uitzitten.
+tip_encumbered_drowning=Je was overbeladen met buit en verdronk. Zwem niet overbeladen naar huis - maak liever twee ritjes.
+tip_smoked=Je zat vol rook - die status verblindt je en doet schade over tijd. Zorg dat je snel uit de rook komt.
+tip_lightning=Bliksemschade mist bijna nooit - afstand houden van bliksemaanvallen is belangrijker dan bepantsering hier.
+tip_frost=Vorstschade kreeg je te pakken, en je was al onderkoeld - vorstresistentiemede helpt enorm tegen ijsvijanden.
+tip_spirit=Geestschade negeert bijna alle bepantsering - dit gevecht had positionering of resistentie nodig, niet alleen betere uitrusting.
+tip_burst=Je kreeg in een paar seconden tijd een stortvloed aan klappen - dat is meestal het moment om terug te trekken, niet om door te vechten.
+tip_singlehit=Dat was één zware klap - wat je ook raakte, het overtrof duidelijk je huidige bepantsering. Overweeg een upgrade voor je verder gaat.
+tip_fall_hammer=Je was aan het bouwen toen je viel - hamer nog in de hand. Steigers en stevige voeten verslaan freehand bouwen boven een afgrond.
+tip_fall=De zwaartekracht blijft onverslagen. Let op je voeten bij kliffen en randen.
+tip_drowning_hammer=Je was aan het bouwen bij het water, hamer in de hand, en verdronk. Houd je ademmeter in de gaten, zelfs midden in een project.
+tip_drowning=Je adem raakte op tijdens het zwemmen. Houd bij hoe ver je van de kust bent.
+tip_burning_hammer=Je vloog in brand tijdens het bouwen, hamer in de hand - te dicht bij een kookstation of vuur staan tijdens het plaatsen doet dat. Let op de vlammen.
+tip_burning=Vuurschade blijft tikken nadat de vlammen je raken - loop meteen weg van brandende grond, blijf er niet doorheen vechten.
+tip_freezing=Je bevroor tot de dood - warme kleding en dicht bij warmtebronnen blijven is belangrijker dan mensen denken.
+tip_edgeofworld=Je ging verder dan de wereld toestaat. Daar is niets - keer volgende keer op tijd om.
+tip_tree=Gedood door een vallende boom. Klassiek. Let op je vluchtroute als je iets groots velt.
+
+fallback_1=Weer een Viking sluit aan in de rij voor Walhalla.
+fallback_2=Het had erger gekund. Het had een Charred kunnen zijn.
+fallback_3=De server onthoudt het. Je grafsteen liegt niet.
+fallback_4=Geen bijzondere omstandigheden hier - gewoon pech, of een slechte beslissing.

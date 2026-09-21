@@ -1,0 +1,69 @@
+# Death Recap localization - German
+line_killed_by=Getötet von {0} ({1})
+line_died_to=Gestorben an {0} ({1})
+line_died_to_while=Gestorben an {0} während {1} ({2})
+
+Burning=Brennend
+Freezing=Erfrierend
+Cold=Kalt
+Poisoned=Vergiftet
+Wet=Nass
+Tarred=Geteert
+Smoked=Eingeräuchert
+Encumbered=Überladen
+
+ht_Undefined=Unbekannte Ursache
+ht_EnemyHit=Feindtreffer
+ht_PlayerHit=Spielertreffer
+ht_Fall=Sturz
+ht_Drowning=Ertrinken
+ht_Water=Wasser
+ht_Smoke=Rauch
+ht_EdgeOfWorld=Rand der Welt
+ht_Impact=Aufprall
+ht_Cart=Karren
+ht_Tree=Fallender Baum
+ht_Self=Deine eigene Hand
+ht_Structural=Einstürzende Struktur
+ht_Turret=Geschützturm
+ht_Boat=Boot
+ht_Stalagtite=Fallender Stalaktit
+ht_Catapult=Katapult
+ht_CinderFire=Glutfeuer
+ht_AshlandsOcean=Ashlands-Ozean
+ht_Incinerator=Verbrennungsofen
+ht_DrawBridge=Zugbrücke
+ht_AshlandsLava=Lava
+
+dmg_None=Unbekannt
+
+tip_stamina_enemy=Deine Ausdauer war leer, als der tödliche Treffer kam - ohne Ausdauer kannst du weder ausweichen noch blocken. Behalte deine Ausdauerleiste im Blick.
+tip_stamina_encumbered=Du warst gleichzeitig überladen und hattest wenig Ausdauer - Überladung erhöht den Ausdauerverbrauch. Wirf vor einem Kampf etwas Gewicht ab.
+tip_stamina_drowning=Dir ging beim Schwimmen die Ausdauer aus. Entferne dich nicht zu weit vom Ufer ohne Ausdauerreserve, und wirf im Notfall schwere Gegenstände ab.
+tip_wet_freezing=Du warst durchnässt und bist erfroren. Trockne dich an einem Feuer, bevor du in die Kälte gehst, oder trage frostresistente Ausrüstung.
+tip_cold=Die Kälte kroch heran - ein wärmerer Umhang oder ein nahes Lagerfeuer hätten dir Zeit verschafft.
+tip_burning_tarred=Du warst geteert und hast Feuer gefangen - Teer plus Flamme ist ein Todesurteil. Halte dich von Feuer fern, solange du geteert bist.
+tip_tarred=Du stecktest im Teer fest, konntest dich nicht frei bewegen, während dich etwas erledigt hat. Achte auf Teergruben.
+tip_poison_lowstamina=Gift zehrte an deiner Gesundheit, während dir kaum Ausdauer zum Rückzug blieb. Gegengift-Met zahlt sich im Sumpf aus.
+tip_poison_majority=Giftschaden ist ein Zermürbungskampf - Gegengift-Met oder rechtzeitiger Rückzug schlagen beide das Durchhalten.
+tip_encumbered_drowning=Du warst mit Beute überladen und bist ertrunken. Schwimme nicht überladen nach Hause - mach lieber zwei Fahrten.
+tip_smoked=Du warst eingeräuchert - dieser Status blendet und schadet dir über Zeit. Verlasse den Rauch, bevor sich der Schaden summiert.
+tip_lightning=Blitzschaden verfehlt selten sein Ziel - Abstand zu blitzbasierten Angriffen zu halten zählt hier mehr als Rüstung.
+tip_frost=Frostschaden hat dich erwischt, und du warst bereits ausgekühlt - Frostresistenz-Met hilft enorm gegen eisbasierte Gegner.
+tip_spirit=Geistschaden ignoriert Rüstung fast vollständig - dieser Kampf brauchte Positionierung oder Resistenz, nicht nur bessere Ausrüstung.
+tip_burst=Du hast innerhalb weniger Sekunden eine ganze Serie von Treffern kassiert - das ist meist der Moment, sich zurückzuziehen, nicht durchzukämpfen.
+tip_singlehit=Das war ein einzelner schwerer Treffer - was auch immer dich getroffen hat, war deiner aktuellen Rüstung klar überlegen. Denk über ein Upgrade nach, bevor du weitermachst.
+tip_fall_hammer=Du warst mitten im Bauen, als du gestürzt bist - Hammer noch in der Hand. Gerüste und sicherer Stand schlagen Freihand-Bauen über einem Abgrund.
+tip_fall=Die Schwerkraft bleibt unbesiegt. Achte auf deinen Stand in der Nähe von Klippen und Kanten.
+tip_drowning_hammer=Du hast am Wasser gebaut, Hammer in der Hand, und bist ertrunken. Behalte deine Atemanzeige auch mitten im Projekt im Blick.
+tip_drowning=Dir ging beim Schwimmen die Luft aus. Behalte im Blick, wie weit du vom Ufer entfernt bist.
+tip_burning_hammer=Du hast beim Bauen Feuer gefangen, Hammer in der Hand - zu nahe an einer Kochstelle oder einem Lagerfeuer zu bauen, führt dazu. Achte auf die Flammen.
+tip_burning=Feuerschaden tickt weiter, nachdem dich die Flammen berührt haben - verlasse brennenden Boden sofort, kämpfe nicht dagegen an.
+tip_freezing=Du bist erfroren - warme Kleidung und die Nähe zu Wärmequellen sind wichtiger, als die meisten denken.
+tip_edgeofworld=Du bist weiter gegangen, als die Welt erlaubt. Dort draußen ist nichts - kehre das nächste Mal rechtzeitig um.
+tip_tree=Von einem fallenden Baum erschlagen. Klassiker. Achte auf deinen Fluchtweg, wenn du etwas Großes fällst.
+
+fallback_1=Ein weiterer Wikinger reiht sich in die Schlange nach Walhalla ein.
+fallback_2=Es hätte schlimmer kommen können. Es hätte ein Charred sein können.
+fallback_3=Der Server erinnert sich. Dein Grabstein lügt nicht.
+fallback_4=Keine besonderen Umstände hier - einfach Pech, oder eine schlechte Entscheidung.

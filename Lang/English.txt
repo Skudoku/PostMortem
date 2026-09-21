@@ -1,0 +1,69 @@
+# Death Recap localization - English (source language)
+line_killed_by=Killed by {0} ({1})
+line_died_to=Died to {0} ({1})
+line_died_to_while=Died to {0} while {1} ({2})
+
+Burning=Burning
+Freezing=Freezing
+Cold=Cold
+Poisoned=Poisoned
+Wet=Wet
+Tarred=Tarred
+Smoked=Smoked
+Encumbered=Encumbered
+
+ht_Undefined=Unknown Causes
+ht_EnemyHit=Enemy Hit
+ht_PlayerHit=Player Hit
+ht_Fall=Fall
+ht_Drowning=Drowning
+ht_Water=Water
+ht_Smoke=Smoke
+ht_EdgeOfWorld=Edge of the World
+ht_Impact=Impact
+ht_Cart=Cart
+ht_Tree=Falling Tree
+ht_Self=Your Own Hand
+ht_Structural=Collapsing Structure
+ht_Turret=Turret
+ht_Boat=Boat
+ht_Stalagtite=Falling Stalactite
+ht_Catapult=Catapult
+ht_CinderFire=Cinder Fire
+ht_AshlandsOcean=Ashlands Ocean
+ht_Incinerator=Incinerator
+ht_DrawBridge=Drawbridge
+ht_AshlandsLava=Lava
+
+dmg_None=Unknown
+
+tip_stamina_enemy=Your stamina was empty when the killing blow landed - you can't dodge or block without it. Keep an eye on your stamina bar.
+tip_stamina_encumbered=You were overloaded and low on stamina at the same time - being encumbered drains stamina faster. Drop some weight before a fight.
+tip_stamina_drowning=You ran out of stamina while swimming. Don't stray far from shore without stamina to spare, and drop heavy items if you're in trouble.
+tip_wet_freezing=You were soaked and freezing to death. Dry off by a fire before heading into the cold, or wear frost-resistant gear.
+tip_cold=The cold was creeping in - a warmer cape or a nearby camp fire would've bought you time.
+tip_burning_tarred=You were coated in tar and caught fire - tar plus flame is a death sentence. Stay clear of fire while tarred.
+tip_tarred=You were stuck in tar, unable to move freely, while something finished you off. Watch your footing around tar pits.
+tip_poison_lowstamina=Poison was draining your health while you had little stamina left to retreat. Poison resistance mead earns its keep in the swamp.
+tip_poison_majority=Poison damage is a war of attrition - antidote mead or pulling back early both beat trying to tank it out.
+tip_encumbered_drowning=You were overloaded with loot and drowned. Don't swim home over-encumbered - make two trips instead.
+tip_smoked=You were smoked out - that status blinds and damages you over time. Get clear of smoke before it adds up.
+tip_lightning=Lightning damage rarely misses - keeping distance from lightning-based attacks matters more than armor here.
+tip_frost=Frost damage got you, and you were already chilled - frost resistance mead helps a lot against ice-based enemies.
+tip_spirit=Spirit damage mostly ignores armor - this fight needed positioning or resistance, not just better gear.
+tip_burst=You took a flurry of hits in just a few seconds - that's usually the moment to disengage, not push through.
+tip_singlehit=That was a single heavy hit - whatever hit you clearly outclassed your current armor. Consider upgrading before pushing further.
+tip_fall_hammer=You were mid-build when you fell - hammer still in hand. Scaffolding and solid footing beat freehanding it over a drop.
+tip_fall=Gravity remains undefeated. Watch your footing near cliffs and ledges.
+tip_drowning_hammer=You were building near water, hammer in hand, and drowned. Keep an eye on your breath meter even mid-project.
+tip_drowning=You ran out of breath swimming. Keep track of how far you are from shore.
+tip_burning_hammer=You caught fire while building, hammer in hand - standing too close to a cooking station or bonfire while placing pieces will do that. Mind the flames.
+tip_burning=Fire damage keeps ticking after the flames touch you - step away from burning ground immediately, don't fight through it.
+tip_freezing=You froze to death - warm clothing and staying near heat sources matters more than people think.
+tip_edgeofworld=You went further than the world allows. There's nothing out there - turn back next time.
+tip_tree=Killed by a falling tree. Classic. Mind your escape route when felling anything big.
+
+fallback_1=Another Viking joins Valhalla's queue.
+fallback_2=Could've been worse. Could've been a Charred.
+fallback_3=The server remembers. Your tombstone doesn't lie.
+fallback_4=No special circumstances here - just bad luck, or a bad decision.

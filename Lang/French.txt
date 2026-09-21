@@ -1,0 +1,69 @@
+# Death Recap localization - French
+line_killed_by=Tué par {0} ({1})
+line_died_to=Mort de {0} ({1})
+line_died_to_while=Mort de {0} en étant {1} ({2})
+
+Burning=En feu
+Freezing=Gelé
+Cold=Froid
+Poisoned=Empoisonné
+Wet=Trempé
+Tarred=Couvert de goudron
+Smoked=Enfumé
+Encumbered=Surchargé
+
+ht_Undefined=Cause Inconnue
+ht_EnemyHit=Coup Ennemi
+ht_PlayerHit=Coup de Joueur
+ht_Fall=Chute
+ht_Drowning=Noyade
+ht_Water=Eau
+ht_Smoke=Fumée
+ht_EdgeOfWorld=Bord du Monde
+ht_Impact=Impact
+ht_Cart=Chariot
+ht_Tree=Arbre qui Tombe
+ht_Self=Ta Propre Main
+ht_Structural=Structure qui S'effondre
+ht_Turret=Tourelle
+ht_Boat=Bateau
+ht_Stalagtite=Stalactite qui Tombe
+ht_Catapult=Catapulte
+ht_CinderFire=Feu de Braises
+ht_AshlandsOcean=Océan des Ashlands
+ht_Incinerator=Incinérateur
+ht_DrawBridge=Pont-Levis
+ht_AshlandsLava=Lave
+
+dmg_None=Inconnu
+
+tip_stamina_enemy=Ton endurance était à zéro quand le coup fatal est arrivé - sans endurance, impossible d'esquiver ou de bloquer. Garde un œil sur ta barre d'endurance.
+tip_stamina_encumbered=Tu étais surchargé et à court d'endurance en même temps - la surcharge draine l'endurance plus vite. Allège-toi avant un combat.
+tip_stamina_drowning=Tu as manqué d'endurance en nageant. Ne t'éloigne pas trop du rivage sans réserve d'endurance, et lâche les objets lourds si tu es en difficulté.
+tip_wet_freezing=Tu étais trempé et tu es mort de froid. Sèche-toi près d'un feu avant d'affronter le froid, ou porte un équipement résistant au gel.
+tip_cold=Le froid s'installait peu à peu - une cape plus chaude ou un feu de camp à proximité t'auraient donné du temps.
+tip_burning_tarred=Tu étais couvert de goudron et tu as pris feu - goudron plus flamme, c'est une condamnation à mort. Reste loin du feu tant que tu es couvert de goudron.
+tip_tarred=Tu étais coincé dans le goudron, incapable de bouger librement, pendant que quelque chose t'achevait. Fais attention aux mares de goudron.
+tip_poison_lowstamina=Le poison rongeait ta santé alors qu'il te restait peu d'endurance pour te retirer. L'hydromel anti-poison se rentabilise dans le marais.
+tip_poison_majority=Les dégâts de poison sont une guerre d'usure - l'antidote ou un repli à temps valent mieux que d'essayer d'encaisser.
+tip_encumbered_drowning=Tu étais surchargé de butin et tu t'es noyé. Ne rentre pas à la nage en étant surchargé - fais plutôt deux voyages.
+tip_smoked=Tu étais enfumé - ce statut t'aveugle et inflige des dégâts au fil du temps. Éloigne-toi de la fumée avant que ça ne s'accumule.
+tip_lightning=Les dégâts de foudre ratent rarement leur cible - garder ses distances face aux attaques électriques compte plus que l'armure ici.
+tip_frost=Les dégâts de givre t'ont eu, et tu étais déjà refroidi - l'hydromel de résistance au gel aide beaucoup contre les ennemis liés à la glace.
+tip_spirit=Les dégâts spirituels ignorent presque toute l'armure - ce combat demandait du positionnement ou de la résistance, pas juste un meilleur équipement.
+tip_burst=Tu as encaissé une rafale de coups en quelques secondes à peine - c'est généralement le moment de se replier, pas de forcer le passage.
+tip_singlehit=C'était un seul coup lourd - ce qui t'a frappé surclassait clairement ton armure actuelle. Envisage une amélioration avant de continuer.
+tip_fall_hammer=Tu étais en pleine construction quand tu es tombé - le marteau encore en main. Un échafaudage et une bonne assise valent mieux que construire à main levée au-dessus du vide.
+tip_fall=La gravité reste invaincue. Fais attention à tes appuis près des falaises et des rebords.
+tip_drowning_hammer=Tu construisais près de l'eau, marteau en main, et tu t'es noyé. Surveille ta jauge de souffle même en pleine construction.
+tip_drowning=Tu as manqué de souffle en nageant. Garde un œil sur ta distance par rapport au rivage.
+tip_burning_hammer=Tu as pris feu en construisant, marteau en main - se tenir trop près d'un poste de cuisine ou d'un feu de camp en posant des pièces fait ça. Fais attention aux flammes.
+tip_burning=Les dégâts de feu continuent après que les flammes t'ont touché - éloigne-toi immédiatement du sol en feu, ne te bats pas au travers.
+tip_freezing=Tu es mort de froid - des vêtements chauds et rester près de sources de chaleur comptent plus qu'on ne le pense.
+tip_edgeofworld=Tu es allé plus loin que ce que le monde permet. Il n'y a rien là-bas - fais demi-tour à temps la prochaine fois.
+tip_tree=Tué par un arbre qui tombe. Un classique. Prévois ta voie de fuite quand tu abats quelque chose de gros.
+
+fallback_1=Un autre Viking rejoint la file d'attente du Valhalla.
+fallback_2=Ça aurait pu être pire. Ça aurait pu être un Charred.
+fallback_3=Le serveur s'en souvient. Ta pierre tombale ne ment pas.
+fallback_4=Rien de spécial ici - juste de la malchance, ou une mauvaise décision.

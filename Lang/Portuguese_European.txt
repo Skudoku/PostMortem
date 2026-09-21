@@ -1,0 +1,69 @@
+# Death Recap localization - European Portuguese
+line_killed_by=Morto por {0} ({1})
+line_died_to=Morreu de {0} ({1})
+line_died_to_while=Morreu de {0} enquanto {1} ({2})
+
+Burning=A arder
+Freezing=A congelar
+Cold=Frio
+Poisoned=Envenenado
+Wet=Molhado
+Tarred=Coberto de alcatrão
+Smoked=Enfumado
+Encumbered=Sobrecarregado
+
+ht_Undefined=Causa Desconhecida
+ht_EnemyHit=Golpe Inimigo
+ht_PlayerHit=Golpe de Jogador
+ht_Fall=Queda
+ht_Drowning=Afogamento
+ht_Water=Água
+ht_Smoke=Fumo
+ht_EdgeOfWorld=Borda do Mundo
+ht_Impact=Impacto
+ht_Cart=Carroça
+ht_Tree=Árvore a Cair
+ht_Self=A Tua Própria Mão
+ht_Structural=Estrutura a Desmoronar
+ht_Turret=Torreta
+ht_Boat=Barco
+ht_Stalagtite=Estalactite a Cair
+ht_Catapult=Catapulta
+ht_CinderFire=Fogo de Brasas
+ht_AshlandsOcean=Oceano das Ashlands
+ht_Incinerator=Incinerador
+ht_DrawBridge=Ponte Levadiça
+ht_AshlandsLava=Lava
+
+dmg_None=Desconhecido
+
+tip_stamina_enemy=A tua resistência estava esgotada quando o golpe fatal chegou - sem resistência não consegues esquivar nem bloquear. Vigia a tua barra de resistência.
+tip_stamina_encumbered=Estavas sobrecarregado e sem resistência ao mesmo tempo - estar sobrecarregado drena a resistência mais depressa. Larga algum peso antes de um combate.
+tip_stamina_drowning=Ficaste sem resistência a nadar. Não te afastes demasiado da costa sem resistência de reserva, e larga objetos pesados se estiveres em apuros.
+tip_wet_freezing=Estavas encharcado e morreste de frio. Seca-te junto a uma fogueira antes de enfrentar o frio, ou usa equipamento resistente ao gelo.
+tip_cold=O frio ia-se instalando aos poucos - uma capa mais quente ou uma fogueira próxima ter-te-iam dado mais tempo.
+tip_burning_tarred=Estavas coberto de alcatrão e pegaste fogo - alcatrão mais chamas é uma sentença de morte. Fica longe do fogo enquanto estiveres coberto de alcatrão.
+tip_tarred=Estavas preso no alcatrão, incapaz de te mover livremente, enquanto algo te acabava. Cuidado com poças de alcatrão.
+tip_poison_lowstamina=O veneno consumia a tua saúde enquanto te restava pouca resistência para recuar. O hidromel anti-veneno compensa no pântano.
+tip_poison_majority=O dano de veneno é uma guerra de desgaste - o antídoto ou recuar a tempo vencem sempre tentar aguentar.
+tip_encumbered_drowning=Estavas sobrecarregado de saque e afogaste-te. Não nades para casa sobrecarregado - faz antes duas viagens.
+tip_smoked=Estavas enfumado - esse estado cega e causa dano ao longo do tempo. Sai do fumo antes que se acumule.
+tip_lightning=O dano de relâmpago raramente falha - manter distância de ataques elétricos conta mais do que a armadura aqui.
+tip_frost=O dano de gelo apanhou-te, e já estavas arrefecido - o hidromel de resistência ao gelo ajuda muito contra inimigos de gelo.
+tip_spirit=O dano espiritual ignora quase toda a armadura - este combate precisava de posicionamento ou resistência, não só de melhor equipamento.
+tip_burst=Levaste uma rajada de golpes em poucos segundos - normalmente esse é o momento de recuar, não de continuar a lutar.
+tip_singlehit=Foi um único golpe pesado - o que quer que te tenha acertado superava claramente a tua armadura atual. Considera melhorá-la antes de avançar.
+tip_fall_hammer=Estavas a construir quando caíste - martelo ainda na mão. Andaimes e um apoio firme vencem construir à mão livre sobre um precipício.
+tip_fall=A gravidade continua invicta. Cuidado com os passos perto de penhascos e bordas.
+tip_drowning_hammer=Estavas a construir perto da água, martelo na mão, e afogaste-te. Vigia o medidor de fôlego mesmo a meio de um projeto.
+tip_drowning=Ficaste sem fôlego a nadar. Presta atenção à distância até à costa.
+tip_burning_hammer=Pegaste fogo enquanto construías, martelo na mão - estar demasiado perto de uma estação de cozinha ou fogueira ao colocar peças causa isso. Cuidado com as chamas.
+tip_burning=O dano de fogo continua depois de as chamas te tocarem - afasta-te imediatamente do chão em chamas, não lutes no meio dele.
+tip_freezing=Morreste de frio - roupa quente e ficar perto de fontes de calor importam mais do que se pensa.
+tip_edgeofworld=Foste mais longe do que o mundo permite. Não há nada ali - da próxima vez volta a tempo.
+tip_tree=Morto por uma árvore a cair. Um clássico. Pensa na rota de fuga quando abateres algo grande.
+
+fallback_1=Mais um viking junta-se à fila do Valhalla.
+fallback_2=Podia ter sido pior. Podia ter sido um Charred.
+fallback_3=O servidor lembra-se. A tua lápide não mente.
+fallback_4=Nada de especial aqui - apenas azar, ou uma má decisão.

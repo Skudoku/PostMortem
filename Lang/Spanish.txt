@@ -1,0 +1,69 @@
+# Death Recap localization - Spanish
+line_killed_by=Matado por {0} ({1})
+line_died_to=Murió de {0} ({1})
+line_died_to_while=Murió de {0} mientras {1} ({2})
+
+Burning=Ardiendo
+Freezing=Congelándose
+Cold=Frío
+Poisoned=Envenenado
+Wet=Mojado
+Tarred=Cubierto de alquitrán
+Smoked=Ahumado
+Encumbered=Sobrecargado
+
+ht_Undefined=Causa Desconocida
+ht_EnemyHit=Golpe Enemigo
+ht_PlayerHit=Golpe de Jugador
+ht_Fall=Caída
+ht_Drowning=Ahogamiento
+ht_Water=Agua
+ht_Smoke=Humo
+ht_EdgeOfWorld=Borde del Mundo
+ht_Impact=Impacto
+ht_Cart=Carreta
+ht_Tree=Árbol Caído
+ht_Self=Tu Propia Mano
+ht_Structural=Estructura Derrumbándose
+ht_Turret=Torreta
+ht_Boat=Barco
+ht_Stalagtite=Estalactita Caída
+ht_Catapult=Catapulta
+ht_CinderFire=Fuego de Brasas
+ht_AshlandsOcean=Océano de las Ashlands
+ht_Incinerator=Incinerador
+ht_DrawBridge=Puente Levadizo
+ht_AshlandsLava=Lava
+
+dmg_None=Desconocido
+
+tip_stamina_enemy=Tu aguante estaba vacío cuando llegó el golpe fatal - sin aguante no puedes esquivar ni bloquear. Vigila tu barra de aguante.
+tip_stamina_encumbered=Estabas sobrecargado y sin aguante al mismo tiempo - la sobrecarga drena el aguante más rápido. Suelta algo de peso antes de una pelea.
+tip_stamina_drowning=Te quedaste sin aguante mientras nadabas. No te alejes demasiado de la orilla sin aguante de reserva, y suelta objetos pesados si estás en apuros.
+tip_wet_freezing=Estabas empapado y moriste de frío. Sécate junto a un fuego antes de adentrarte en el frío, o usa equipo resistente a la escarcha.
+tip_cold=El frío se iba colando poco a poco - una capa más abrigada o una hoguera cercana te habrían dado tiempo.
+tip_burning_tarred=Estabas cubierto de alquitrán y te prendiste fuego - alquitrán más llamas es una sentencia de muerte. Aléjate del fuego mientras estés cubierto de alquitrán.
+tip_tarred=Estabas atrapado en alquitrán, sin poder moverte libremente, mientras algo te remataba. Ten cuidado con los charcos de alquitrán.
+tip_poison_lowstamina=El veneno consumía tu salud mientras apenas te quedaba aguante para retirarte. El aguamiel antiveneno vale la pena en el pantano.
+tip_poison_majority=El daño de veneno es una guerra de desgaste - el antídoto o retirarte a tiempo superan a intentar aguantar.
+tip_encumbered_drowning=Estabas sobrecargado de botín y te ahogaste. No nades a casa sobrecargado - mejor haz dos viajes.
+tip_smoked=Estabas ahumado - ese estado te ciega y te daña con el tiempo. Aléjate del humo antes de que se acumule.
+tip_lightning=El daño de rayo rara vez falla - mantener la distancia de ataques eléctricos importa más que la armadura aquí.
+tip_frost=El daño de escarcha te alcanzó, y ya estabas enfriado - el aguamiel de resistencia a la escarcha ayuda mucho contra enemigos de hielo.
+tip_spirit=El daño espiritual ignora casi toda la armadura - esta pelea necesitaba posicionamiento o resistencia, no solo mejor equipo.
+tip_burst=Recibiste una ráfaga de golpes en pocos segundos - normalmente ese es el momento de retirarse, no de seguir adelante.
+tip_singlehit=Ese fue un solo golpe pesado - lo que te golpeó superaba claramente tu armadura actual. Considera mejorarla antes de seguir avanzando.
+tip_fall_hammer=Estabas construyendo cuando caíste - martillo aún en mano. Un andamio y un buen apoyo ganan a construir a pulso sobre un precipicio.
+tip_fall=La gravedad sigue invicta. Cuida tus pasos cerca de acantilados y bordes.
+tip_drowning_hammer=Estabas construyendo cerca del agua, martillo en mano, y te ahogaste. Vigila tu medidor de aire incluso en medio de un proyecto.
+tip_drowning=Te quedaste sin aire nadando. Ten en cuenta lo lejos que estás de la orilla.
+tip_burning_hammer=Te prendiste fuego mientras construías, martillo en mano - estar demasiado cerca de una estación de cocina o una hoguera mientras colocas piezas provoca eso. Cuidado con las llamas.
+tip_burning=El daño de fuego sigue acumulándose después de que las llamas te tocan - aléjate del suelo en llamas de inmediato, no sigas luchando en medio de él.
+tip_freezing=Moriste congelado - la ropa abrigada y quedarte cerca de fuentes de calor importan más de lo que la gente cree.
+tip_edgeofworld=Fuiste más allá de lo que el mundo permite. Ahí fuera no hay nada - da la vuelta a tiempo la próxima vez.
+tip_tree=Matado por un árbol caído. Un clásico. Ten en cuenta tu ruta de escape cuando tales algo grande.
+
+fallback_1=Otro vikingo se une a la cola del Valhalla.
+fallback_2=Pudo haber sido peor. Pudo haber sido un Charred.
+fallback_3=El servidor lo recuerda. Tu lápida no miente.
+fallback_4=Nada especial esta vez - solo mala suerte, o una mala decisión.

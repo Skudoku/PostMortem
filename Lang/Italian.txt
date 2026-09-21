@@ -1,0 +1,69 @@
+# Death Recap localization - Italian
+line_killed_by=Ucciso da {0} ({1})
+line_died_to=Morto per {0} ({1})
+line_died_to_while=Morto per {0} mentre {1} ({2})
+
+Burning=In fiamme
+Freezing=Congelante
+Cold=Freddo
+Poisoned=Avvelenato
+Wet=Bagnato
+Tarred=Coperto di catrame
+Smoked=Affumicato
+Encumbered=Sovraccarico
+
+ht_Undefined=Causa Sconosciuta
+ht_EnemyHit=Colpo Nemico
+ht_PlayerHit=Colpo di Giocatore
+ht_Fall=Caduta
+ht_Drowning=Annegamento
+ht_Water=Acqua
+ht_Smoke=Fumo
+ht_EdgeOfWorld=Bordo del Mondo
+ht_Impact=Impatto
+ht_Cart=Carretto
+ht_Tree=Albero Caduto
+ht_Self=La Tua Stessa Mano
+ht_Structural=Struttura Crollata
+ht_Turret=Torretta
+ht_Boat=Barca
+ht_Stalagtite=Stalattite Caduta
+ht_Catapult=Catapulta
+ht_CinderFire=Fuoco di Braci
+ht_AshlandsOcean=Oceano delle Ashlands
+ht_Incinerator=Inceneritore
+ht_DrawBridge=Ponte Levatoio
+ht_AshlandsLava=Lava
+
+dmg_None=Sconosciuto
+
+tip_stamina_enemy=La tua stamina era a zero quando è arrivato il colpo fatale - senza stamina non puoi schivare né parare. Tieni d'occhio la barra della stamina.
+tip_stamina_encumbered=Eri sovraccarico e a corto di stamina allo stesso tempo - il sovraccarico consuma la stamina più in fretta. Scarica un po' di peso prima di un combattimento.
+tip_stamina_drowning=Hai esaurito la stamina mentre nuotavi. Non allontanarti troppo dalla riva senza stamina di riserva, e lascia cadere gli oggetti pesanti se sei nei guai.
+tip_wet_freezing=Eri fradicio ed sei morto assiderato. Asciugati vicino a un fuoco prima di affrontare il freddo, o indossa equipaggiamento resistente al gelo.
+tip_cold=Il freddo si insinuava piano piano - un mantello più caldo o un fuoco da campo vicino ti avrebbero dato più tempo.
+tip_burning_tarred=Eri coperto di catrame e hai preso fuoco - catrame più fiamme è una condanna a morte. Stai lontano dal fuoco finché sei coperto di catrame.
+tip_tarred=Eri bloccato nel catrame, incapace di muoverti liberamente, mentre qualcosa ti finiva. Fai attenzione alle pozze di catrame.
+tip_poison_lowstamina=Il veleno ti consumava la salute mentre ti restava poca stamina per ritirarti. L'idromele antiveleno si ripaga da solo nella palude.
+tip_poison_majority=Il danno da veleno è una guerra di logoramento - l'antidoto o una ritirata tempestiva battono entrambi il tentativo di incassare.
+tip_encumbered_drowning=Eri sovraccarico di bottino e sei annegato. Non tornare a nuoto sovraccarico - fai invece due viaggi.
+tip_smoked=Eri affumicato - quello stato acceca e infligge danno nel tempo. Allontanati dal fumo prima che si accumuli.
+tip_lightning=Il danno da fulmine manca raramente il bersaglio - tenere le distanze dagli attacchi elettrici conta più dell'armatura qui.
+tip_frost=Il danno da gelo ti ha colpito, ed eri già infreddolito - l'idromele di resistenza al gelo aiuta molto contro i nemici legati al ghiaccio.
+tip_spirit=Il danno spirituale ignora quasi tutta l'armatura - questo combattimento richiedeva posizionamento o resistenza, non solo equipaggiamento migliore.
+tip_burst=Hai incassato una raffica di colpi in pochi secondi - di solito è il momento di ritirarsi, non di continuare a combattere.
+tip_singlehit=Quello è stato un singolo colpo pesante - qualunque cosa ti abbia colpito superava chiaramente la tua armatura attuale. Considera un miglioramento prima di proseguire.
+tip_fall_hammer=Stavi costruendo quando sei caduto - martello ancora in mano. Impalcature e un appoggio solido battono il costruire a mano libera sopra un dirupo.
+tip_fall=La gravità resta imbattuta. Fai attenzione ai tuoi passi vicino a dirupi e bordi.
+tip_drowning_hammer=Stavi costruendo vicino all'acqua, martello in mano, e sei annegato. Tieni d'occhio l'indicatore del fiato anche a metà di un progetto.
+tip_drowning=Hai esaurito il fiato mentre nuotavi. Tieni traccia di quanto sei lontano dalla riva.
+tip_burning_hammer=Hai preso fuoco mentre costruivi, martello in mano - stare troppo vicino a una stazione di cottura o a un falò mentre posizioni pezzi fa questo. Attento alle fiamme.
+tip_burning=Il danno da fuoco continua a ticchettare dopo che le fiamme ti toccano - allontanati subito dal terreno in fiamme, non combattere in mezzo ad esso.
+tip_freezing=Sei morto assiderato - vestiti caldi e rimanere vicino a fonti di calore contano più di quanto la gente pensi.
+tip_edgeofworld=Sei andato oltre quanto il mondo permette. Là fuori non c'è niente - torna indietro in tempo la prossima volta.
+tip_tree=Ucciso da un albero caduto. Un classico. Pensa alla via di fuga quando abbatti qualcosa di grande.
+
+fallback_1=Un altro vichingo si mette in coda per il Valhalla.
+fallback_2=Poteva andare peggio. Poteva essere un Charred.
+fallback_3=Il server se lo ricorda. La tua lapide non mente.
+fallback_4=Niente di speciale qui - solo sfortuna, o una brutta decisione.
