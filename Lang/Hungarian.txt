@@ -1,0 +1,69 @@
+# Death Recap localization - Hungarian
+line_killed_by=Megölte: {0} ({1})
+line_died_to=Halál oka: {0} ({1})
+line_died_to_while=Halál oka: {0}, állapot: {1} ({2})
+
+Burning=Égés
+Freezing=Fagyás
+Cold=Hideg
+Poisoned=Mérgezett
+Wet=Vizes
+Tarred=Kátrányos
+Smoked=Füstös
+Encumbered=Túlterhelt
+
+ht_Undefined=Ismeretlen Ok
+ht_EnemyHit=Ellenséges Találat
+ht_PlayerHit=Játékos Találata
+ht_Fall=Zuhanás
+ht_Drowning=Fulladás
+ht_Water=Víz
+ht_Smoke=Füst
+ht_EdgeOfWorld=A Világ Széle
+ht_Impact=Becsapódás
+ht_Cart=Kordé
+ht_Tree=Kidőlő Fa
+ht_Self=Saját Kezed
+ht_Structural=Összeomló Építmény
+ht_Turret=Lövegtorony
+ht_Boat=Hajó
+ht_Stalagtite=Lehulló Cseppkő
+ht_Catapult=Katapult
+ht_CinderFire=Parázstűz
+ht_AshlandsOcean=Ashlands Óceán
+ht_Incinerator=Égetőkemence
+ht_DrawBridge=Felvonóhíd
+ht_AshlandsLava=Láva
+
+dmg_None=Ismeretlen
+
+tip_stamina_enemy=Az állóképességed kifogyott, amikor a halálos csapás ért - állóképesség nélkül nem tudsz kitérni vagy blokkolni. Tartsd szemmel az állóképesség-sávot.
+tip_stamina_encumbered=Egyszerre voltál túlterhelt és állóképesség híján - a túlterhelés gyorsabban fogyasztja az állóképességet. Dobj le némi súlyt harc előtt.
+tip_stamina_drowning=Kifogyott az állóképességed úszás közben. Ne távolodj el túlságosan a parttól tartalék állóképesség nélkül, és dobd el a nehéz tárgyakat, ha bajba kerülsz.
+tip_wet_freezing=Csuromvizes voltál és halálra fagytál. Szárítkozz meg tűznél, mielőtt a hidegbe indulsz, vagy viselj fagyálló felszerelést.
+tip_cold=A hideg lassan kúszott be - egy melegebb köpeny vagy egy közeli tábortűz időt nyert volna neked.
+tip_burning_tarred=Kátránnyal voltál borítva és lángra kaptál - a kátrány és a láng együtt halálos ítélet. Maradj távol a tűztől, amíg kátrányos vagy.
+tip_tarred=Beragadtál a kátrányba, nem tudtál szabadon mozogni, miközben valami végzett veled. Vigyázz a kátránytócsákra.
+tip_poison_lowstamina=A méreg fogyasztotta az életerődet, miközben alig maradt állóképességed a visszavonuláshoz. A méregellenes mézsör megtérül a mocsárban.
+tip_poison_majority=A méregsebzés felőrlő háború - az ellenszer vagy az időben történő visszavonulás egyaránt jobb, mint kibírni próbálni.
+tip_encumbered_drowning=Zsákmánnyal túlterhelve fulladtál meg. Ne ússz haza túlterhelten - inkább menj kétszer.
+tip_smoked=Füstben voltál - ez az állapot vakít és folyamatosan sebez. Kerülj ki a füstből, mielőtt a sebzés felhalmozódik.
+tip_lightning=A villámsebzés ritkán téveszt célt - itt fontosabb a távolságtartás a villámtámadásoktól, mint a páncél.
+tip_frost=A fagysebzés kapott el, és már amúgy is át voltál fagyva - a fagyállóság-mézsör sokat segít a jég alapú ellenfelek ellen.
+tip_spirit=A szellemsebzés szinte teljesen figyelmen kívül hagyja a páncélt - ez a harc pozicionálást vagy ellenállást kívánt, nem csak jobb felszerelést.
+tip_burst=Néhány másodperc alatt záporoztak rád az ütések - ez általában a visszavonulás pillanata, nem a továbbharcolásé.
+tip_singlehit=Ez egyetlen súlyos csapás volt - bármi is talált el, egyértelműen felülmúlta a jelenlegi páncélodat. Fontold meg a fejlesztést, mielőtt továbbmész.
+tip_fall_hammer=Építés közben zuhantál le - a kalapács még mindig a kezedben. Az állványzat és a szilárd talaj jobb, mint szabad kézzel építeni egy szakadék felett.
+tip_fall=A gravitáció veretlen marad. Figyelj a lépéseidre sziklák és peremek közelében.
+tip_drowning_hammer=Víz közelében építettél, kalapáccsal a kezedben, és megfulladtál. Tartsd szemmel a levegő-mutatót még a projekt közepén is.
+tip_drowning=Kifogyott a levegőd úszás közben. Kövesd, milyen messze vagy a parttól.
+tip_burning_hammer=Építés közben kaptál lángra, kalapáccsal a kezedben - ha túl közel állsz egy főzőállomáshoz vagy tábortűzhöz elemek elhelyezése közben, ez történik. Vigyázz a lángokkal.
+tip_burning=A tűzsebzés tovább ketyeg, miután a lángok hozzád értek - azonnal hagyd el az égő talajt, ne harcolj rajta keresztül.
+tip_freezing=Halálra fagytál - a meleg ruha és a hőforrások közelsége többet számít, mint hinnéd.
+tip_edgeofworld=Messzebb mentél, mint amit a világ megenged. Odakint nincs semmi - legközelebb fordulj vissza időben.
+tip_tree=Kidőlő fa ölt meg. Klasszikus. Gondolj a menekülési útvonalra, ha valami nagyot vágsz ki.
+
+fallback_1=Még egy viking áll be a Valhalla sorába.
+fallback_2=Lehetett volna rosszabb is. Lehetett volna egy Charred.
+fallback_3=A szerver emlékszik. A sírköved nem hazudik.
+fallback_4=Semmi különös ezúttal - csak balszerencse, vagy egy rossz döntés.

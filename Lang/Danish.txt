@@ -1,0 +1,69 @@
+# Death Recap localization - Danish
+line_killed_by=Dræbt af {0} ({1})
+line_died_to=Døde af {0} ({1})
+line_died_to_while=Døde af {0} mens {1} ({2})
+
+Burning=Brændende
+Freezing=Frysende
+Cold=Kold
+Poisoned=Forgiftet
+Wet=Våd
+Tarred=Tjæret
+Smoked=Røget
+Encumbered=Overbelastet
+
+ht_Undefined=Ukendt Årsag
+ht_EnemyHit=Fjendtligt Slag
+ht_PlayerHit=Spillerslag
+ht_Fall=Fald
+ht_Drowning=Drukning
+ht_Water=Vand
+ht_Smoke=Røg
+ht_EdgeOfWorld=Verdens Kant
+ht_Impact=Sammenstød
+ht_Cart=Vogn
+ht_Tree=Faldende Træ
+ht_Self=Din Egen Hånd
+ht_Structural=Kollapsende Konstruktion
+ht_Turret=Tårn
+ht_Boat=Båd
+ht_Stalagtite=Faldende Stalaktit
+ht_Catapult=Katapult
+ht_CinderFire=Gløderild
+ht_AshlandsOcean=Ashlands Ocean
+ht_Incinerator=Forbrændingsovn
+ht_DrawBridge=Vindebro
+ht_AshlandsLava=Lava
+
+dmg_None=Ukendt
+
+tip_stamina_enemy=Din udholdenhed var tom, da det dræbende slag kom - uden udholdenhed kan du hverken undvige eller blokere. Hold øje med din udholdenhedsbjælke.
+tip_stamina_encumbered=Du var overbelastet og lav på udholdenhed samtidig - overbelastning dræner udholdenhed hurtigere. Smid noget vægt før en kamp.
+tip_stamina_drowning=Du løb tør for udholdenhed mens du svømmede. Gå ikke for langt fra kysten uden udholdenhed i reserve, og smid tunge genstande hvis du er i problemer.
+tip_wet_freezing=Du var gennemblødt og frøs ihjel. Tør dig ved et bål før du trodser kulden, eller brug frostresistent udstyr.
+tip_cold=Kulden sneg sig ind - en varmere kappe eller et bål i nærheden havde givet dig mere tid.
+tip_burning_tarred=Du var dækket af tjære og fangede ild - tjære plus flammer er en dødsdom. Hold dig væk fra ild mens du er tjæret.
+tip_tarred=Du sad fast i tjære, kunne ikke bevæge dig frit, mens noget gjorde det af med dig. Pas på tjærepytter.
+tip_poison_lowstamina=Gift tærede på dit helbred mens du havde lidt udholdenhed tilbage til at trække dig tilbage. Giftmodgifts-mjød betaler sig i moserne.
+tip_poison_majority=Giftskade er en udmattelseskrig - modgift eller rettidig tilbagetrækning slår begge det at prøve at holde ud.
+tip_encumbered_drowning=Du var overbelastet med bytte og druknede. Svøm ikke hjem overbelastet - tag hellere to ture.
+tip_smoked=Du var indhyllet i røg - den status blænder og skader over tid. Kom ud af røgen før skaden når at samle sig.
+tip_lightning=Lynskade rammer sjældent forbi - at holde afstand fra lynangreb tæller mere end rustning her.
+tip_frost=Frostskade fangede dig, og du var allerede nedkølet - frostmodstands-mjød hjælper meget mod isbaserede fjender.
+tip_spirit=Åndeskade ignorerer næsten al rustning - denne kamp krævede positionering eller modstand, ikke bare bedre udstyr.
+tip_burst=Du fik en byge af slag på blot et par sekunder - det er som regel tidspunktet for at trække sig tilbage, ikke fortsætte kampen.
+tip_singlehit=Det var et enkelt tungt slag - uanset hvad der ramte dig, overgik det tydeligt din nuværende rustning. Overvej en opgradering, før du fortsætter.
+tip_fall_hammer=Du var midt i et byggeprojekt, da du faldt - hammeren stadig i hånden. Stilladser og godt fodfæste slår at bygge frihånds over et stup.
+tip_fall=Tyngdekraften forbliver uovervundet. Pas på dit fodfæste nær klipper og kanter.
+tip_drowning_hammer=Du byggede nær vand, hammer i hånden, og druknede. Hold øje med din vejrtrækningsmåler selv midt i et projekt.
+tip_drowning=Du løb tør for vejrtrækning mens du svømmede. Hold styr på, hvor langt du er fra kysten.
+tip_burning_hammer=Du fangede ild mens du byggede, hammer i hånden - at stå for tæt på en kogeplads eller et bål, mens du placerer dele, gør det. Pas på flammerne.
+tip_burning=Ildskade bliver ved med at tikke, efter flammerne har rørt dig - forlad brændende jord med det samme, kæmp ikke igennem det.
+tip_freezing=Du frøs ihjel - varmt tøj og at holde sig nær varmekilder betyder mere, end folk tror.
+tip_edgeofworld=Du gik længere, end verden tillader. Der er intet derude - vend om i tide næste gang.
+tip_tree=Dræbt af et faldende træ. Klassisk. Tænk på flugtvejen, når du fælder noget stort.
+
+fallback_1=Endnu en viking stiller sig i køen til Valhal.
+fallback_2=Det kunne have været værre. Det kunne have været en Charred.
+fallback_3=Serveren husker. Din gravsten lyver ikke.
+fallback_4=Intet særligt her - bare uheld, eller en dårlig beslutning.

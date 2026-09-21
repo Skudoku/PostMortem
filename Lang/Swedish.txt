@@ -1,0 +1,69 @@
+# Death Recap localization - Swedish
+line_killed_by=Dödad av {0} ({1})
+line_died_to=Dog av {0} ({1})
+line_died_to_while=Dog av {0} medan {1} ({2})
+
+Burning=Brinnande
+Freezing=Frysande
+Cold=Kall
+Poisoned=Förgiftad
+Wet=Blöt
+Tarred=Tjärad
+Smoked=Rökt
+Encumbered=Överbelastad
+
+ht_Undefined=Okänd Orsak
+ht_EnemyHit=Fiendeträff
+ht_PlayerHit=Spelarträff
+ht_Fall=Fall
+ht_Drowning=Drunkning
+ht_Water=Vatten
+ht_Smoke=Rök
+ht_EdgeOfWorld=Världens Kant
+ht_Impact=Sammanstötning
+ht_Cart=Kärra
+ht_Tree=Fallande Träd
+ht_Self=Din Egen Hand
+ht_Structural=Rasande Konstruktion
+ht_Turret=Kanontorn
+ht_Boat=Båt
+ht_Stalagtite=Fallande Stalaktit
+ht_Catapult=Katapult
+ht_CinderFire=Glödbrand
+ht_AshlandsOcean=Ashlands Ocean
+ht_Incinerator=Förbränningsugn
+ht_DrawBridge=Vindbrygga
+ht_AshlandsLava=Lava
+
+dmg_None=Okänt
+
+tip_stamina_enemy=Din uthållighet var slut när det dödande slaget kom - utan uthållighet kan du varken undvika eller blockera. Håll koll på din uthållighetsmätare.
+tip_stamina_encumbered=Du var överbelastad och hade låg uthållighet samtidigt - överbelastning tömmer uthållighet snabbare. Släpp lite vikt innan en strid.
+tip_stamina_drowning=Du fick slut på uthållighet medan du simmade. Håll dig inte för långt från stranden utan uthållighet i reserv, och släpp tunga föremål om du är i knipa.
+tip_wet_freezing=Du var genomblöt och frös ihjäl. Torka dig vid en eld innan du ger dig ut i kylan, eller bär frostbeständig utrustning.
+tip_cold=Kylan smög sig på - en varmare mantel eller en lägereld i närheten hade gett dig mer tid.
+tip_burning_tarred=Du var täckt av tjära och fattade eld - tjära plus eld är en dödsdom. Håll dig borta från eld medan du är tjärad.
+tip_tarred=Du satt fast i tjära, kunde inte röra dig fritt, medan något gjorde slut på dig. Se upp för tjärpölar.
+tip_poison_lowstamina=Giftet tärde på din hälsa medan du hade lite uthållighet kvar att fly med. Giftmotgiftsmjöd lönar sig i träsket.
+tip_poison_majority=Giftskada är ett utmattningskrig - motgift eller att dra sig tillbaka i tid slår båda att försöka härda ut.
+tip_encumbered_drowning=Du var överbelastad med byte och drunknade. Simma inte hem överbelastad - gör två resor istället.
+tip_smoked=Du var rökt - det statuset förblindar och skadar över tid. Ta dig ur röken innan skadan hinner byggas upp.
+tip_lightning=Blixtskada missar sällan - att hålla avstånd från blixtattacker väger tyngre än rustning här.
+tip_frost=Frostskada fick tag i dig, och du var redan nedkyld - frostmotståndsmjöd hjälper mycket mot isbaserade fiender.
+tip_spirit=Andeskada ignorerar nästan all rustning - den här striden krävde positionering eller motstånd, inte bara bättre utrustning.
+tip_burst=Du fick en störtskur av slag på bara några sekunder - det är oftast läge att dra sig undan, inte att fortsätta kämpa.
+tip_singlehit=Det var ett enda tungt slag - vad som än träffade dig överträffade tydligt din nuvarande rustning. Fundera på en uppgradering innan du fortsätter.
+tip_fall_hammer=Du höll på att bygga när du föll - hammaren fortfarande i handen. Ställningar och stadigt fotfäste slår att bygga fritt över ett stup.
+tip_fall=Tyngdkraften förblir obesegrad. Se upp med fotfästet nära klippor och kanter.
+tip_drowning_hammer=Du byggde nära vatten, hammaren i handen, och drunknade. Håll koll på andningsmätaren även mitt i ett projekt.
+tip_drowning=Du fick slut på andan medan du simmade. Håll koll på hur långt du är från stranden.
+tip_burning_hammer=Du fattade eld medan du byggde, hammaren i handen - att stå för nära en matlagningsstation eller lägereld när du placerar delar gör det. Se upp för lågorna.
+tip_burning=Eldskada fortsätter att ticka efter att lågorna rört vid dig - lämna brinnande mark omedelbart, kämpa inte igenom den.
+tip_freezing=Du frös ihjäl - varma kläder och att hålla sig nära värmekällor betyder mer än folk tror.
+tip_edgeofworld=Du gick längre än världen tillåter. Det finns inget där ute - vänd om i tid nästa gång.
+tip_tree=Dödad av ett fallande träd. Klassiskt. Tänk på flyktvägen när du fäller något stort.
+
+fallback_1=Ännu en viking ställer sig i kö till Valhall.
+fallback_2=Det kunde ha varit värre. Det kunde ha varit en Charred.
+fallback_3=Servern minns. Din gravsten ljuger inte.
+fallback_4=Inget speciellt här - bara otur, eller ett dåligt beslut.

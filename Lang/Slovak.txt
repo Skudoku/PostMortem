@@ -1,0 +1,69 @@
+# Death Recap localization - Slovak
+line_killed_by=Zabitý: {0} ({1})
+line_died_to=Zomrel na: {0} ({1})
+line_died_to_while=Zomrel na: {0}, stav: {1} ({2})
+
+Burning=Horí
+Freezing=Mrzne
+Cold=Zima
+Poisoned=Otrávený
+Wet=Mokrý
+Tarred=Pokrytý decht
+Smoked=Zadymený
+Encumbered=Preťažený
+
+ht_Undefined=Neznáma Príčina
+ht_EnemyHit=Zásah Nepriateľa
+ht_PlayerHit=Zásah Hráča
+ht_Fall=Pád
+ht_Drowning=Utopenie
+ht_Water=Voda
+ht_Smoke=Dym
+ht_EdgeOfWorld=Okraj Sveta
+ht_Impact=Náraz
+ht_Cart=Vozík
+ht_Tree=Padajúci Strom
+ht_Self=Vlastná Ruka
+ht_Structural=Rútiaca sa Konštrukcia
+ht_Turret=Veža
+ht_Boat=Loď
+ht_Stalagtite=Padajúci Stalaktit
+ht_Catapult=Katapult
+ht_CinderFire=Žeravý Oheň
+ht_AshlandsOcean=Oceán Ashlands
+ht_Incinerator=Spaľovňa
+ht_DrawBridge=Padací Most
+ht_AshlandsLava=Láva
+
+dmg_None=Neznáme
+
+tip_stamina_enemy=Tvoja výdrž bola prázdna, keď prišiel smrteľný úder - bez výdrže nemôžeš uhýbať ani blokovať. Sleduj ukazovateľ výdrže.
+tip_stamina_encumbered=Bol si preťažený a zároveň bez výdrže - preťaženie rýchlejšie vyčerpáva výdrž. Zbav sa váhy pred bojom.
+tip_stamina_drowning=Došla ti výdrž pri plávaní. Nevzďaľuj sa príliš od brehu bez rezervy výdrže a v núdzi zahoď ťažké predmety.
+tip_wet_freezing=Bol si premočený a zamrzol si. Osuš sa pri ohni skôr, než sa vydáš do zimy, alebo si vezmi výbavu odolnú proti mrazu.
+tip_cold=Zima sa pomaly vkrádala - teplejší plášť alebo blízky táborák by ti dali viac času.
+tip_burning_tarred=Bol si pokrytý decht a chytil si - decht a plameň spolu znamenajú istú smrť. Drž sa ďalej od ohňa, kým si pokrytý decht.
+tip_tarred=Uviazol si v dechte, nemohol si sa voľne pohybovať, kým ťa niečo dorazilo. Dávaj pozor na kaluže dechtu.
+tip_poison_lowstamina=Jed ti uberal zdravie, kým ti zostávalo málo výdrže na ústup. Med proti jedu sa v močiari oplatí.
+tip_poison_majority=Poškodenie jedom je vojna na vyčerpanie - protijed alebo včasný ústup sú lepšie ako snaha to vydržať.
+tip_encumbered_drowning=Bol si preťažený korisťou a utopil si sa. Neplávaj domov preťažený - radšej urob dve cesty.
+tip_smoked=Bol si zadymený - tento stav oslepuje a postupne uberá zdravie. Dostaň sa z dymu skôr, než sa poškodenie nahromadí.
+tip_lightning=Poškodenie bleskom málokedy minie - udržiavanie odstupu od bleskových útokov je tu dôležitejšie ako brnenie.
+tip_frost=Poškodenie mrazom ťa dostalo, a už si bol podchladený - med odolnosti proti mrazu veľmi pomáha proti ľadovým nepriateľom.
+tip_spirit=Duchovné poškodenie takmer úplne ignoruje brnenie - tento boj si vyžadoval postavenie alebo odolnosť, nie len lepšiu výbavu.
+tip_burst=Dostal si sériu úderov v priebehu pár sekúnd - to je zvyčajne chvíľa na ústup, nie na pokračovanie v boji.
+tip_singlehit=Bola to jedna ťažká rana - čokoľvek ťa zasiahlo, jasne prevyšovalo tvoje súčasné brnenie. Zváž vylepšenie, kým budeš pokračovať.
+tip_fall_hammer=Bol si uprostred stavby, keď si spadol - kladivo stále v ruke. Lešenie a pevný postoj porážajú stavanie z voľnej ruky nad priepasťou.
+tip_fall=Gravitácia zostáva neporazená. Dávaj pozor na to, kam stúpaš blízko útesov a okrajov.
+tip_drowning_hammer=Staval si pri vode, kladivo v ruke, a utopil si sa. Sleduj ukazovateľ dychu aj uprostred projektu.
+tip_drowning=Došiel ti dych pri plávaní. Sleduj, ako ďaleko si od brehu.
+tip_burning_hammer=Chytil si pri stavaní, kladivo v ruke - státie príliš blízko kuchynskej stanice alebo táboráku pri umiestňovaní dielov to spôsobuje. Dávaj pozor na plamene.
+tip_burning=Poškodenie ohňom pokračuje aj po tom, čo sa ťa dotknú plamene - okamžite opusti horiacu zem, nebojuj cez ňu.
+tip_freezing=Zamrzol si - teplé oblečenie a pobyt blízko zdrojov tepla znamenajú viac, než si ľudia myslia.
+tip_edgeofworld=Zašiel si ďalej, než svet dovoľuje. Tam vonku nič nie je - nabudúce sa vráť včas.
+tip_tree=Zabitý padajúcim stromom. Klasika. Mysli na únikovú cestu, keď váľaš niečo veľké.
+
+fallback_1=Ďalší Viking sa radí do frontu na Valhalu.
+fallback_2=Mohlo to byť horšie. Mohol to byť Charred.
+fallback_3=Server si pamätá. Tvoj náhrobok neluže.
+fallback_4=Nič zvláštne tentokrát - len smola, alebo zlé rozhodnutie.

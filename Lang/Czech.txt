@@ -1,0 +1,69 @@
+# Death Recap localization - Czech
+line_killed_by=Zabit: {0} ({1})
+line_died_to=Zemřel na: {0} ({1})
+line_died_to_while=Zemřel na: {0}, stav: {1} ({2})
+
+Burning=Hoří
+Freezing=Mrzne
+Cold=Zima
+Poisoned=Otráven
+Wet=Mokrý
+Tarred=Potřený dehtem
+Smoked=Zakouřený
+Encumbered=Přetížený
+
+ht_Undefined=Neznámá Příčina
+ht_EnemyHit=Zásah Nepřítele
+ht_PlayerHit=Zásah Hráče
+ht_Fall=Pád
+ht_Drowning=Utopení
+ht_Water=Voda
+ht_Smoke=Kouř
+ht_EdgeOfWorld=Okraj Světa
+ht_Impact=Náraz
+ht_Cart=Vozík
+ht_Tree=Padající Strom
+ht_Self=Vlastní Ruka
+ht_Structural=Zřícená Konstrukce
+ht_Turret=Věž
+ht_Boat=Loď
+ht_Stalagtite=Padající Stalaktit
+ht_Catapult=Katapult
+ht_CinderFire=Žhavý Oheň
+ht_AshlandsOcean=Oceán Ashlands
+ht_Incinerator=Spalovna
+ht_DrawBridge=Padací Most
+ht_AshlandsLava=Láva
+
+dmg_None=Neznámé
+
+tip_stamina_enemy=Tvoje vytrvalost byla prázdná, když přišla smrtící rána - bez vytrvalosti nemůžeš uhýbat ani blokovat. Sleduj ukazatel vytrvalosti.
+tip_stamina_encumbered=Byl jsi přetížený a zároveň bez vytrvalosti - přetížení rychleji vyčerpává vytrvalost. Zbav se váhy před bojem.
+tip_stamina_drowning=Došla ti vytrvalost při plavání. Nevzdaluj se příliš od břehu bez rezervy vytrvalosti a v nouzi odhoď těžké předměty.
+tip_wet_freezing=Byl jsi promočený a umrzl jsi. Osuš se u ohně, než se vydáš do zimy, nebo si vezmi vybavení odolné proti mrazu.
+tip_cold=Zima se pomalu vkrádala - teplejší plášť nebo blízký táborák by ti daly víc času.
+tip_burning_tarred=Byl jsi potřený dehtem a chytil jsi - dehet a plamen dohromady znamenají jistou smrt. Drž se od ohně dál, dokud jsi potřený dehtem.
+tip_tarred=Uvízl jsi v dehtu, nemohl ses volně pohybovat, zatímco tě něco dorazilo. Dávej pozor na kaluže dehtu.
+tip_poison_lowstamina=Jed ti ubíral zdraví, zatímco ti zbývalo málo vytrvalosti na ústup. Med proti jedu se v bažině vyplatí.
+tip_poison_majority=Poškození jedem je válka na vyčerpání - protijed nebo včasný ústup jsou lepší než snaha to vydržet.
+tip_encumbered_drowning=Byl jsi přetížený kořistí a utopil ses. Neplav domů přetížený - udělej raději dvě cesty.
+tip_smoked=Byl jsi zakouřený - tento stav oslepuje a postupně ubírá zdraví. Dostaň se z kouře, než se poškození nahromadí.
+tip_lightning=Poškození bleskem málokdy mine - udržování odstupu od bleskových útoků je tady důležitější než brnění.
+tip_frost=Poškození mrazem tě dostalo, a už jsi byl podchlazený - med odolnosti proti mrazu hodně pomáhá proti ledovým nepřátelům.
+tip_spirit=Duchovní poškození téměř úplně ignoruje brnění - tento boj vyžadoval postavení nebo odolnost, ne jen lepší výbavu.
+tip_burst=Dostal jsi sérii úderů během pár sekund - to je obvykle chvíle na ústup, ne na pokračování v boji.
+tip_singlehit=Byla to jedna těžká rána - cokoliv tě zasáhlo, jasně převyšovalo tvé současné brnění. Zvaž vylepšení, než budeš pokračovat.
+tip_fall_hammer=Byl jsi uprostřed stavby, když jsi spadl - kladivo pořád v ruce. Lešení a pevný postoj poráží stavění z volné ruky nad propastí.
+tip_fall=Gravitace zůstává neporažena. Dávej pozor na to, kam šlapeš poblíž útesů a okrajů.
+tip_drowning_hammer=Stavěl jsi u vody, kladivo v ruce, a utopil ses. Sleduj ukazatel dechu i uprostřed projektu.
+tip_drowning=Došel ti dech při plavání. Sleduj, jak daleko jsi od břehu.
+tip_burning_hammer=Chytil jsi při stavění, kladivo v ruce - stání příliš blízko kuchyňské stanice nebo táboráku při umisťování dílů to způsobuje. Dávej pozor na plameny.
+tip_burning=Poškození ohněm pokračuje i poté, co se tě dotknou plameny - okamžitě opusť hořící zem, nebojuj skrz ni.
+tip_freezing=Umrzl jsi - teplé oblečení a pobyt blízko zdrojů tepla znamenají víc, než si lidé myslí.
+tip_edgeofworld=Zašel jsi dál, než svět dovoluje. Tam venku nic není - příště se včas vrať.
+tip_tree=Zabit padajícím stromem. Klasika. Mysli na únikovou cestu, když kácíš něco velkého.
+
+fallback_1=Další Viking se řadí do fronty na Valhalu.
+fallback_2=Mohlo to být horší. Mohl to být Charred.
+fallback_3=Server si pamatuje. Tvůj náhrobek nelže.
+fallback_4=Nic zvláštního tentokrát - jen smůla, nebo špatné rozhodnutí.

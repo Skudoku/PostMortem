@@ -1,0 +1,69 @@
+# Death Recap localization - Polish
+line_killed_by=Zabity przez {0} ({1})
+line_died_to=Zginął od {0} ({1})
+line_died_to_while=Zginął od {0} podczas {1} ({2})
+
+Burning=Płonący
+Freezing=Zamarzający
+Cold=Zimno
+Poisoned=Zatruty
+Wet=Mokry
+Tarred=Oblany smołą
+Smoked=Zadymiony
+Encumbered=Przeciążony
+
+ht_Undefined=Nieznana Przyczyna
+ht_EnemyHit=Cios Wroga
+ht_PlayerHit=Cios Gracza
+ht_Fall=Upadek
+ht_Drowning=Utonięcie
+ht_Water=Woda
+ht_Smoke=Dym
+ht_EdgeOfWorld=Kraniec Świata
+ht_Impact=Uderzenie
+ht_Cart=Wózek
+ht_Tree=Spadające Drzewo
+ht_Self=Własna Ręka
+ht_Structural=Zawalająca się Konstrukcja
+ht_Turret=Wieżyczka
+ht_Boat=Łódź
+ht_Stalagtite=Spadający Stalaktyt
+ht_Catapult=Katapulta
+ht_CinderFire=Ogień z Żaru
+ht_AshlandsOcean=Ocean Ashlands
+ht_Incinerator=Spalarnia
+ht_DrawBridge=Zwodzony Most
+ht_AshlandsLava=Lawa
+
+dmg_None=Nieznane
+
+tip_stamina_enemy=Twoja wytrzymałość była na zerze, gdy nadszedł śmiertelny cios - bez wytrzymałości nie możesz unikać ani blokować. Miej oko na pasek wytrzymałości.
+tip_stamina_encumbered=Byłeś przeciążony i miałeś mało wytrzymałości jednocześnie - przeciążenie szybciej zużywa wytrzymałość. Zrzuć trochę wagi przed walką.
+tip_stamina_drowning=Zabrakło ci wytrzymałości podczas pływania. Nie oddalaj się zbyt daleko od brzegu bez zapasu wytrzymałości i porzuć ciężkie przedmioty, gdy jesteś w opałach.
+tip_wet_freezing=Byłeś przemoczony i zamarzłeś na śmierć. Wysusz się przy ogniu, zanim ruszysz w chłód, albo załóż sprzęt odporny na mróz.
+tip_cold=Zimno wkradało się powoli - cieplejsza peleryna lub pobliskie ognisko dałyby ci więcej czasu.
+tip_burning_tarred=Byłeś oblany smołą i zapaliłeś się - smoła plus ogień to wyrok śmierci. Trzymaj się z dala od ognia, gdy jesteś oblany smołą.
+tip_tarred=Utknąłeś w smole, nie mogąc się swobodnie ruszać, gdy coś cię dobijało. Uważaj na kałuże smoły.
+tip_poison_lowstamina=Trucizna zżerała twoje zdrowie, gdy zostało ci niewiele wytrzymałości na odwrót. Miód przeciw truciźnie zwraca się na bagnach.
+tip_poison_majority=Obrażenia od trucizny to wojna na wyczerpanie - antidotum albo odwrót w porę biją próbę przetrwania na siłę.
+tip_encumbered_drowning=Byłeś przeciążony łupem i utonąłeś. Nie płyń do domu przeciążony - zrób lepiej dwa kursy.
+tip_smoked=Byłeś zadymiony - ten status oślepia i zadaje obrażenia w czasie. Wydostań się z dymu, zanim obrażenia się nazbierają.
+tip_lightning=Obrażenia od pioruna rzadko chybiają - trzymanie dystansu od ataków elektrycznych liczy się tu bardziej niż zbroja.
+tip_frost=Dopadły cię obrażenia od mrozu, a byłeś już wychłodzony - miód odporności na mróz mocno pomaga przeciw wrogom lodowym.
+tip_spirit=Obrażenia duchowe niemal całkowicie ignorują zbroję - ta walka wymagała pozycjonowania lub odporności, nie tylko lepszego sprzętu.
+tip_burst=Dostałeś serię ciosów w ciągu kilku sekund - to zwykle moment na odwrót, nie na dalszą walkę.
+tip_singlehit=To był pojedynczy, ciężki cios - cokolwiek cię trafiło, wyraźnie przewyższało twoją obecną zbroję. Rozważ ulepszenie, zanim pójdziesz dalej.
+tip_fall_hammer=Budowałeś, gdy spadłeś - młot wciąż w dłoni. Rusztowanie i pewny grunt biją budowanie z wolnej ręki nad przepaścią.
+tip_fall=Grawitacja pozostaje niepokonana. Uważaj na to, gdzie stawiasz stopy w pobliżu klifów i krawędzi.
+tip_drowning_hammer=Budowałeś przy wodzie, młot w dłoni, i utonąłeś. Miej oko na wskaźnik oddechu nawet w środku budowy.
+tip_drowning=Zabrakło ci oddechu podczas pływania. Śledź, jak daleko jesteś od brzegu.
+tip_burning_hammer=Zapaliłeś się podczas budowy, młot w dłoni - stanie zbyt blisko stanowiska kuchennego lub ogniska przy stawianiu elementów tak właśnie kończy się. Uważaj na płomienie.
+tip_burning=Obrażenia od ognia wciąż tykają po tym, jak dotkną cię płomienie - natychmiast odejdź z płonącego terenu, nie walcz w nim dalej.
+tip_freezing=Zamarzłeś na śmierć - ciepłe ubranie i trzymanie się blisko źródeł ciepła znaczą więcej, niż ludziom się wydaje.
+tip_edgeofworld=Poszedłeś dalej, niż pozwala świat. Tam nic nie ma - następnym razem zawróć na czas.
+tip_tree=Zabity przez spadające drzewo. Klasyka. Pamiętaj o drodze ucieczki, gdy ścinasz coś dużego.
+
+fallback_1=Kolejny wiking dołącza do kolejki do Walhalli.
+fallback_2=Mogło być gorzej. Mógł to być Charred.
+fallback_3=Serwer pamięta. Twój nagrobek nie kłamie.
+fallback_4=Nic szczególnego tym razem - po prostu pech albo zły wybór.

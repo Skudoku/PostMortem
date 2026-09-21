@@ -1,0 +1,69 @@
+# Death Recap localization - Finnish
+line_killed_by=Tappoi: {0} ({1})
+line_died_to=Kuoli syystä: {0} ({1})
+line_died_to_while=Kuoli syystä: {0}, tila: {1} ({2})
+
+Burning=Palaa
+Freezing=Jäätyy
+Cold=Kylmä
+Poisoned=Myrkytetty
+Wet=Märkä
+Tarred=Tervattu
+Smoked=Savustettu
+Encumbered=Ylikuormitettu
+
+ht_Undefined=Tuntematon Syy
+ht_EnemyHit=Vihollisen Isku
+ht_PlayerHit=Pelaajan Isku
+ht_Fall=Putoaminen
+ht_Drowning=Hukkuminen
+ht_Water=Vesi
+ht_Smoke=Savu
+ht_EdgeOfWorld=Maailman Reuna
+ht_Impact=Törmäys
+ht_Cart=Kärry
+ht_Tree=Kaatuva Puu
+ht_Self=Oma Käsi
+ht_Structural=Sortuva Rakenne
+ht_Turret=Torni
+ht_Boat=Vene
+ht_Stalagtite=Putoava Tippukivi
+ht_Catapult=Katapultti
+ht_CinderFire=Hiillostuli
+ht_AshlandsOcean=Ashlandsin Valtameri
+ht_Incinerator=Polttouuni
+ht_DrawBridge=Nostosilta
+ht_AshlandsLava=Laava
+
+dmg_None=Tuntematon
+
+tip_stamina_enemy=Kestävyytesi oli tyhjä, kun tappava isku osui - ilman kestävyyttä et voi väistää tai torjua. Pidä silmällä kestävyyspalkkiasi.
+tip_stamina_encumbered=Olit ylikuormitettu ja vähissä kestävyydessä samaan aikaan - ylikuormitus kuluttaa kestävyyttä nopeammin. Pudota painoa ennen taistelua.
+tip_stamina_drowning=Kestävyytesi loppui uidessa. Älä mene liian kauas rannasta ilman kestävyysvarantoa, ja pudota raskaat esineet jos joudut pulaan.
+tip_wet_freezing=Olit läpimärkä ja paleltuit kuoliaaksi. Kuivaa itsesi tulen ääressä ennen kylmään menoa, tai pue pakkaskestävät varusteet.
+tip_cold=Kylmyys hiipi hitaasti - lämpimämpi viitta tai läheinen nuotio olisi antanut lisää aikaa.
+tip_burning_tarred=Olit tervan peitossa ja syttyit tuleen - terva ja liekit yhdessä tarkoittavat varmaa kuolemaa. Pysy poissa tulesta niin kauan kuin olet tervassa.
+tip_tarred=Jäit jumiin tervaan etkä voinut liikkua vapaasti, kun jokin viimeisteli sinut. Varo tervalammikoita.
+tip_poison_lowstamina=Myrkky söi terveyttäsi, kun kestävyyttä oli enää vähän jäljellä vetäytymiseen. Myrkynvastainen sima maksaa itsensä takaisin suolla.
+tip_poison_majority=Myrkkyvahinko on kulutussotaa - vastamyrkky tai ajoissa vetäytyminen voittavat molemmat yrityksen kestää loppuun asti.
+tip_encumbered_drowning=Olit ylikuormitettu saaliilla ja hukuit. Älä ui kotiin ylikuormitettuna - tee mieluummin kaksi matkaa.
+tip_smoked=Olit savun peitossa - tuo tila sokaisee ja vahingoittaa ajan myötä. Poistu savusta ennen kuin vahinko kasautuu.
+tip_lightning=Salamavahinko osuu harvoin ohi - etäisyyden pitäminen sähköhyökkäyksistä on tässä tärkeämpää kuin panssari.
+tip_frost=Pakkasvahinko sai sinut kiinni, ja olit jo jäähtynyt - pakkasenkestosima auttaa paljon jääpohjaisia vihollisia vastaan.
+tip_spirit=Henkivahinko ohittaa lähes kaiken panssarin - tämä taistelu vaati asemointia tai vastustuskykyä, ei vain parempia varusteita.
+tip_burst=Sait iskusarjan parissa sekunnissa - se on yleensä hetki vetäytyä, ei jatkaa taistelua.
+tip_singlehit=Se oli yksi raskas isku - mikä sinuun osuikaan, se ylitti selvästi nykyisen panssarisi. Harkitse päivitystä ennen jatkamista.
+tip_fall_hammer=Olit rakentamassa, kun putosit - vasara yhä kädessä. Telineet ja tukeva jalansija voittavat vapaan käden rakentamisen jyrkänteen yllä.
+tip_fall=Painovoima pysyy voittamattomana. Varo jalansijaasi jyrkänteiden ja reunojen lähellä.
+tip_drowning_hammer=Rakensit veden äärellä, vasara kädessä, ja hukuit. Pidä silmällä hengitysmittaria myös kesken projektin.
+tip_drowning=Henkesi loppui uidessa. Pidä kirjaa siitä, kuinka kaukana olet rannasta.
+tip_burning_hammer=Syttyit tuleen rakentaessasi, vasara kädessä - liian lähellä keittopistettä tai nuotiota seisominen osia asettaessa aiheuttaa tämän. Varo liekkejä.
+tip_burning=Tulivahinko jatkaa tikitystä sen jälkeen kun liekit koskettavat sinua - poistu palavalta maalta heti, älä taistele sen läpi.
+tip_freezing=Paleltuit kuoliaaksi - lämpimät vaatteet ja lämmönlähteiden lähellä pysyminen merkitsevät enemmän kuin luullaan.
+tip_edgeofworld=Menit pidemmälle kuin maailma sallii. Siellä ei ole mitään - käänny ajoissa takaisin ensi kerralla.
+tip_tree=Kaatuvan puun tappama. Klassikko. Muista pakoreitti kaataessasi jotain isoa.
+
+fallback_1=Vielä yksi viikinki liittyy Valhallan jonoon.
+fallback_2=Olisi voinut olla pahempaakin. Olisi voinut olla Charred.
+fallback_3=Palvelin muistaa. Hautakivesi ei valehtele.
+fallback_4=Ei mitään erikoista tällä kertaa - vain huonoa tuuria, tai huono päätös.
