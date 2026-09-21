@@ -1,0 +1,9 @@
+{
+    "name": "PostMortem",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Skudoku/PostMortem",
+    "description": "On death, shows what actually killed you plus a situational tip based on your stamina, food, status effects and recent hits.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+}

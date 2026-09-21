@@ -1,0 +1,58 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <IsPackable>false</IsPackable>
+    <AssemblyName>DeathRecap.Tests</AssemblyName>
+    <RootNamespace>DeathRecap.Tests</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <ValheimPath>C:\Program Files (x86)\Steam\steamapps\common\Valheim</ValheimPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.11.1" />
+    <PackageReference Include="xunit" Version="2.9.2" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.8.2" />
+  </ItemGroup>
+
+  <!--
+    The rule engine is pure logic, but DeathContext's fields are typed with the game's own
+    enums (HitData.HitType, Heightmap.Biome), so the game assemblies have to be on the test
+    runtime's probing path. They are referenced with Private=true here (unlike the mod build,
+    which must not copy them) so the enum metadata resolves when tests run outside Unity.
+  -->
+  <ItemGroup>
+    <Reference Include="assembly_valheim">
+      <HintPath>$(ValheimPath)\valheim_Data\Managed\assembly_valheim.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="assembly_guiutils">
+      <HintPath>$(ValheimPath)\valheim_Data\Managed\assembly_guiutils.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>$(ValheimPath)\valheim_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(ValheimPath)\valheim_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+  </ItemGroup>
+
+  <!--
+    Compiled directly rather than via ProjectReference: the mod targets netstandard2.1 against
+    Unity's assemblies, and referencing that output from a net8.0 test host drags in the whole
+    BepInEx/Harmony surface. Only the game-logic-free files are needed here.
+  -->
+  <ItemGroup>
+    <Compile Include="..\DeathContext.cs" Link="Source\DeathContext.cs" />
+    <Compile Include="..\TipEngine.cs" Link="Source\TipEngine.cs" />
+    <Compile Include="..\Tuning.cs" Link="Source\Tuning.cs" />
+  </ItemGroup>
+
+</Project>

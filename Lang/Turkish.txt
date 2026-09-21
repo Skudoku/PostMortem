@@ -1,0 +1,69 @@
+# Death Recap localization - Turkish
+line_killed_by={0} tarafından öldürüldü ({1})
+line_died_to={0} nedeniyle öldü ({1})
+line_died_to_while={0} nedeniyle öldü, durum: {1} ({2})
+
+Burning=Yanıyor
+Freezing=Donuyor
+Cold=Üşümüş
+Poisoned=Zehirlenmiş
+Wet=Islak
+Tarred=Katran bulaşmış
+Smoked=Dumanda kalmış
+Encumbered=Aşırı yüklü
+
+ht_Undefined=Bilinmeyen Sebep
+ht_EnemyHit=Düşman Darbesi
+ht_PlayerHit=Oyuncu Darbesi
+ht_Fall=Düşme
+ht_Drowning=Boğulma
+ht_Water=Su
+ht_Smoke=Duman
+ht_EdgeOfWorld=Dünyanın Kenarı
+ht_Impact=Çarpma
+ht_Cart=El Arabası
+ht_Tree=Devrilen Ağaç
+ht_Self=Kendi Elin
+ht_Structural=Çöken Yapı
+ht_Turret=Taret
+ht_Boat=Tekne
+ht_Stalagtite=Düşen Sarkıt
+ht_Catapult=Mancınık
+ht_CinderFire=Kor Ateşi
+ht_AshlandsOcean=Ashlands Okyanusu
+ht_Incinerator=Yakma Fırını
+ht_DrawBridge=Açılır Köprü
+ht_AshlandsLava=Lav
+
+dmg_None=Bilinmiyor
+
+tip_stamina_enemy=Ölümcül darbe geldiğinde dayanıklılığın bitmişti - dayanıklılık olmadan ne kaçabilir ne de blok yapabilirsin. Dayanıklılık çubuğunu takip et.
+tip_stamina_encumbered=Aynı anda hem aşırı yüklüydün hem de dayanıklılığın azdı - aşırı yük dayanıklılığı daha hızlı tüketir. Dövüşten önce biraz yük bırak.
+tip_stamina_drowning=Yüzerken dayanıklılığın tükendi. Yedek dayanıklılık olmadan kıyıdan fazla uzaklaşma ve başın dertteyse ağır eşyaları bırak.
+tip_wet_freezing=Sırılsıklamdın ve donarak öldün. Soğuğa çıkmadan önce ateş başında kurun ya da soğuğa dayanıklı ekipman giy.
+tip_cold=Soğuk yavaş yavaş içine işliyordu - daha sıcak bir pelerin ya da yakında bir kamp ateşi sana zaman kazandırırdı.
+tip_burning_tarred=Katran bulaşmışken alev aldın - katran ve ateş bir arada ölüm fermanıdır. Katranlıyken ateşten uzak dur.
+tip_tarred=Katrana saplanmıştın, serbestçe hareket edemiyordun ve bir şey işini bitirdi. Katran birikintilerine dikkat et.
+tip_poison_lowstamina=Zehir canını eritirken geri çekilecek dayanıklılığın neredeyse kalmamıştı. Bataklıkta zehir direnci balı kendini amorti eder.
+tip_poison_majority=Zehir hasarı bir yıpratma savaşıdır - panzehir balı ya da erken geri çekilmek, dayanmaya çalışmaktan iyidir.
+tip_encumbered_drowning=Ganimetle aşırı yüklüydün ve boğuldun. Aşırı yüklüyken eve yüzme - bunun yerine iki sefer yap.
+tip_smoked=Dumanda kalmıştın - bu durum görüşü kapatır ve zamanla hasar verir. Hasar birikmeden dumandan uzaklaş.
+tip_lightning=Yıldırım hasarı nadiren ıskalar - burada zırhtan çok elektrik saldırılarından uzak durmak önemlidir.
+tip_frost=Soğuk hasarı seni yakaladı ve zaten üşümüştün - buz temelli düşmanlara karşı soğuk direnci balı çok işe yarar.
+tip_spirit=Ruh hasarı zırhı neredeyse tamamen yok sayar - bu dövüş konumlanma ya da direnç istiyordu, sadece daha iyi ekipman değil.
+tip_burst=Birkaç saniye içinde peş peşe darbeler yedin - bu genellikle geri çekilme anıdır, zorlama anı değil.
+tip_singlehit=Bu tek bir ağır darbeydi - sana vuran her neyse, mevcut zırhını açıkça aşıyordu. Daha ileri gitmeden önce yükseltmeyi düşün.
+tip_fall_hammer=Düştüğünde inşaat halindeydin - çekiç hâlâ elindeydi. İskele ve sağlam bir zemin, uçurum üstünde serbest elle inşaattan iyidir.
+tip_fall=Yer çekimi hâlâ yenilmemiş durumda. Uçurumların ve kenarların yakınında adımlarına dikkat et.
+tip_drowning_hammer=Su kenarında elinde çekiçle inşaat yaparken boğuldun. Proje ortasında bile nefes göstergesini gözden kaçırma.
+tip_drowning=Yüzerken nefesin tükendi. Kıyıdan ne kadar uzakta olduğunu takip et.
+tip_burning_hammer=Elinde çekiçle inşaat yaparken alev aldın - parça yerleştirirken pişirme istasyonuna ya da kamp ateşine fazla yaklaşmak buna yol açar. Alevlere dikkat et.
+tip_burning=Alevler sana değdikten sonra da ateş hasarı işlemeye devam eder - yanan zemini hemen terk et, içinden dövüşerek geçmeye çalışma.
+tip_freezing=Donarak öldün - sıcak kıyafetler ve ısı kaynaklarına yakın durmak sanıldığından çok daha önemlidir.
+tip_edgeofworld=Dünyanın izin verdiğinden daha ileri gittin. Orada hiçbir şey yok - bir dahaki sefere zamanında geri dön.
+tip_tree=Devrilen bir ağaç tarafından öldürüldün. Klasik. Büyük bir şey devirirken kaçış yolunu düşün.
+
+fallback_1=Bir Viking daha Valhalla kuyruğuna katıldı.
+fallback_2=Daha kötü olabilirdi. Bir Charred olabilirdi.
+fallback_3=Sunucu hatırlıyor. Mezar taşın yalan söylemez.
+fallback_4=Bu sefer özel bir durum yok - sadece şanssızlık ya da kötü bir karar.

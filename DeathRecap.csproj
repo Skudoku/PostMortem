@@ -14,6 +14,12 @@
     <ValheimPath>C:\Program Files (x86)\Steam\steamapps\common\Valheim</ValheimPath>
   </PropertyGroup>
 
+  <!-- The test project lives in a subfolder and compiles the shared sources itself. -->
+  <ItemGroup>
+    <Compile Remove="Tests\**" />
+    <None Remove="Tests\**" />
+  </ItemGroup>
+
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
       <HintPath>$(ValheimPath)\valheim_Data\Managed\Assembly-CSharp.dll</HintPath>

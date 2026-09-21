@@ -1,0 +1,69 @@
+# Death Recap localization - Croatian
+line_killed_by=Ubio te {0} ({1})
+line_died_to=Poginuo od {0} ({1})
+line_died_to_while=Poginuo od {0}, stanje: {1} ({2})
+
+Burning=Gori
+Freezing=Smrzava se
+Cold=Hladno
+Poisoned=Otrovan
+Wet=Mokar
+Tarred=Prekriven katranom
+Smoked=U dimu
+Encumbered=Preopterećen
+
+ht_Undefined=Nepoznat Uzrok
+ht_EnemyHit=Udarac Neprijatelja
+ht_PlayerHit=Udarac Igrača
+ht_Fall=Pad
+ht_Drowning=Utapanje
+ht_Water=Voda
+ht_Smoke=Dim
+ht_EdgeOfWorld=Rub Svijeta
+ht_Impact=Sudar
+ht_Cart=Kolica
+ht_Tree=Stablo koje Pada
+ht_Self=Vlastita Ruka
+ht_Structural=Urušena Konstrukcija
+ht_Turret=Kula
+ht_Boat=Brod
+ht_Stalagtite=Stalaktit koji Pada
+ht_Catapult=Katapult
+ht_CinderFire=Vatra od Žara
+ht_AshlandsOcean=Ocean Ashlandsa
+ht_Incinerator=Spalionica
+ht_DrawBridge=Pokretni Most
+ht_AshlandsLava=Lava
+
+dmg_None=Nepoznato
+
+tip_stamina_enemy=Izdržljivost ti je bila na nuli kad je stigao smrtonosni udarac - bez izdržljivosti ne možeš ni izbjeći ni blokirati. Prati traku izdržljivosti.
+tip_stamina_encumbered=Bio si istovremeno preopterećen i bez izdržljivosti - preopterećenje brže troši izdržljivost. Odbaci nešto težine prije borbe.
+tip_stamina_drowning=Ponestalo ti je izdržljivosti dok si plivao. Ne udaljavaj se previše od obale bez rezerve izdržljivosti i baci teške predmete ako si u nevolji.
+tip_wet_freezing=Bio si mokar do kože i smrznuo se. Osuši se kraj vatre prije nego kreneš na hladnoću ili nosi opremu otpornu na mraz.
+tip_cold=Hladnoća se polako uvlačila - topliji plašt ili logorska vatra u blizini dali bi ti više vremena.
+tip_burning_tarred=Bio si prekriven katranom i zapalio se - katran i plamen zajedno znače sigurnu smrt. Drži se dalje od vatre dok si prekriven katranom.
+tip_tarred=Zaglavio si u katranu, nisi se mogao slobodno kretati, dok te nešto dokrajčilo. Pazi na lokve katrana.
+tip_poison_lowstamina=Otrov ti je izjedao zdravlje dok ti je ostalo malo izdržljivosti za povlačenje. Medovina protiv otrova isplati se u močvari.
+tip_poison_majority=Šteta od otrova je rat iscrpljivanja - protuotrov ili pravovremeno povlačenje bolji su od pokušaja da izdržiš.
+tip_encumbered_drowning=Bio si preopterećen plijenom i utopio se. Ne plivaj kući preopterećen - radije napravi dva puta.
+tip_smoked=Bio si u dimu - to stanje zasljepljuje i nanosi štetu tijekom vremena. Izađi iz dima prije nego se šteta nakupi.
+tip_lightning=Šteta od munje rijetko promašuje - ovdje je udaljenost od električnih napada važnija od oklopa.
+tip_frost=Sustigla te šteta od mraza, a već si bio pothlađen - medovina otpornosti na mraz jako pomaže protiv ledenih neprijatelja.
+tip_spirit=Duhovna šteta gotovo potpuno ignorira oklop - ova borba tražila je pozicioniranje ili otpornost, a ne samo bolju opremu.
+tip_burst=Primio si niz udaraca u samo nekoliko sekundi - to je obično trenutak za povlačenje, a ne za guranje naprijed.
+tip_singlehit=Bio je to jedan težak udarac - što god te pogodilo, jasno je nadmašilo tvoj trenutni oklop. Razmisli o nadogradnji prije nego nastaviš dalje.
+tip_fall_hammer=Bio si usred gradnje kad si pao - čekić ti je još bio u ruci. Skele i čvrst oslonac bolji su od gradnje slobodnom rukom iznad ponora.
+tip_fall=Gravitacija ostaje nepobijeđena. Pazi kuda staješ blizu litica i rubova.
+tip_drowning_hammer=Gradio si uz vodu, s čekićem u ruci, i utopio se. Prati mjerač daha čak i usred projekta.
+tip_drowning=Ponestalo ti je zraka dok si plivao. Prati koliko si daleko od obale.
+tip_burning_hammer=Zapalio si se dok si gradio, s čekićem u ruci - stajanje preblizu kuhinjskoj stanici ili logorskoj vatri pri postavljanju dijelova dovodi upravo do toga. Pazi na plamen.
+tip_burning=Šteta od vatre nastavlja se i nakon što te plamen dotakne - odmah napusti zapaljeno tlo, nemoj se boriti kroz njega.
+tip_freezing=Smrznuo si se na smrt - topla odjeća i boravak blizu izvora topline znače više nego što ljudi misle.
+tip_edgeofworld=Otišao si dalje nego što svijet dopušta. Tamo vani nema ničega - sljedeći put se vrati na vrijeme.
+tip_tree=Ubilo te stablo koje je palo. Klasika. Razmisli o putu bijega kad rušiš nešto veliko.
+
+fallback_1=Još jedan Viking staje u red za Valhallu.
+fallback_2=Moglo je biti gore. Mogao je biti Charred.
+fallback_3=Server pamti. Tvoj nadgrobni spomenik ne laže.
+fallback_4=Ništa posebno ovaj put - samo loša sreća ili loša odluka.

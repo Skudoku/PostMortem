@@ -2,6 +2,8 @@
 line_killed_by=Killed by {0} ({1})
 line_died_to=Died to {0} ({1})
 line_died_to_while=Died to {0} while {1} ({2})
+line_in_biome=in the {0}
+line_other_player_death={0} died: {1}
 
 Burning=Burning
 Freezing=Freezing
@@ -37,6 +39,14 @@ ht_AshlandsLava=Lava
 
 dmg_None=Unknown
 
+tip_nemesis=This isn't the first time. That same thing has killed you repeatedly now - whatever you're doing against it isn't working, so change the approach rather than the gear.
+tip_repeat_killer=Killed by the same thing twice in a row. Worth stopping to think about what it does differently than you expect before heading back.
+tip_tool_ambush=You were killed with a tool in your hands, not a weapon. Mining and farming leave you defenceless - keep a weapon on the hotbar and swap the moment something shows up.
+tip_nofood=You died with no food buffs active. Food is most of your health and stamina in this game - never fight on an empty stomach.
+tip_lowfood=You only had one food active, so you were fighting at a fraction of your potential health and stamina. Keep all three slots filled.
+tip_notrested=You weren't Rested when you died. The Rested buff is free health and stamina regen - sleep or stand by a fire before heading out.
+tip_boss=That was a boss. Bosses reward patience: learn the attack tells, keep stamina for dodges, and bring the right resistance mead.
+tip_oneshot_healthy=You went from near full health to dead almost instantly. Something there hits far harder than your current armor can absorb - approach that fight differently.
 tip_stamina_enemy=Your stamina was empty when the killing blow landed - you can't dodge or block without it. Keep an eye on your stamina bar.
 tip_stamina_encumbered=You were overloaded and low on stamina at the same time - being encumbered drains stamina faster. Drop some weight before a fight.
 tip_stamina_drowning=You ran out of stamina while swimming. Don't stray far from shore without stamina to spare, and drop heavy items if you're in trouble.

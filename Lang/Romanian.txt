@@ -1,0 +1,69 @@
+# Death Recap localization - Romanian
+line_killed_by=Ucis de {0} ({1})
+line_died_to=A murit din cauza {0} ({1})
+line_died_to_while=A murit din cauza {0}, stare: {1} ({2})
+
+Burning=Arde
+Freezing=Îngheață
+Cold=Frig
+Poisoned=Otrăvit
+Wet=Ud
+Tarred=Acoperit de smoală
+Smoked=Afumat
+Encumbered=Supraîncărcat
+
+ht_Undefined=Cauză Necunoscută
+ht_EnemyHit=Lovitură de Inamic
+ht_PlayerHit=Lovitură de Jucător
+ht_Fall=Cădere
+ht_Drowning=Înec
+ht_Water=Apă
+ht_Smoke=Fum
+ht_EdgeOfWorld=Marginea Lumii
+ht_Impact=Impact
+ht_Cart=Căruț
+ht_Tree=Copac Căzut
+ht_Self=Propria Mână
+ht_Structural=Structură Prăbușită
+ht_Turret=Turelă
+ht_Boat=Barcă
+ht_Stalagtite=Stalactită Căzută
+ht_Catapult=Catapultă
+ht_CinderFire=Foc de Jar
+ht_AshlandsOcean=Oceanul Ashlands
+ht_Incinerator=Incinerator
+ht_DrawBridge=Pod Mobil
+ht_AshlandsLava=Lavă
+
+dmg_None=Necunoscut
+
+tip_stamina_enemy=Rezistența ta era la zero când a venit lovitura fatală - fără rezistență nu poți nici să te ferești, nici să blochezi. Ține ochii pe bara de rezistență.
+tip_stamina_encumbered=Erai supraîncărcat și cu rezistență scăzută în același timp - supraîncărcarea consumă rezistența mai repede. Lasă din greutate înainte de o luptă.
+tip_stamina_drowning=Ți s-a terminat rezistența în timp ce înotai. Nu te îndepărta prea mult de țărm fără rezervă de rezistență și aruncă obiectele grele dacă ești în pericol.
+tip_wet_freezing=Erai ud leoarcă și ai murit înghețat. Usucă-te la foc înainte să înfrunți frigul sau poartă echipament rezistent la ger.
+tip_cold=Frigul se strecura încet - o pelerină mai călduroasă sau un foc de tabără în apropiere ți-ar fi dat timp.
+tip_burning_tarred=Erai acoperit de smoală și ai luat foc - smoala plus flacăra înseamnă condamnare la moarte. Stai departe de foc cât timp ești acoperit de smoală.
+tip_tarred=Erai blocat în smoală, fără să te poți mișca liber, în timp ce ceva te-a terminat. Ai grijă la bălțile de smoală.
+tip_poison_lowstamina=Otrava îți consuma viața în timp ce îți rămăsese puțină rezistență pentru retragere. Miedul contra otrăvii își merită prețul în mlaștină.
+tip_poison_majority=Daunele de otravă sunt un război de uzură - antidotul sau retragerea la timp bat încercarea de a rezista.
+tip_encumbered_drowning=Erai supraîncărcat cu pradă și te-ai înecat. Nu înota spre casă supraîncărcat - fă mai bine două drumuri.
+tip_smoked=Erai prins în fum - această stare orbește și provoacă daune în timp. Ieși din fum înainte să se adune daunele.
+tip_lightning=Daunele de fulger rareori ratează - aici contează mai mult distanța față de atacurile electrice decât armura.
+tip_frost=Te-au prins daunele de ger, iar erai deja răcit - miedul de rezistență la ger ajută mult împotriva inamicilor de gheață.
+tip_spirit=Daunele spirituale ignoră aproape complet armura - lupta asta cerea poziționare sau rezistență, nu doar echipament mai bun.
+tip_burst=Ai încasat o rafală de lovituri în doar câteva secunde - de obicei acela e momentul să te retragi, nu să insiști.
+tip_singlehit=A fost o singură lovitură grea - orice te-a lovit depășea clar armura ta actuală. Ia în calcul o îmbunătățire înainte să mergi mai departe.
+tip_fall_hammer=Erai în mijlocul construcției când ai căzut - cu ciocanul încă în mână. Schelele și un sprijin solid bat construitul din mână deasupra unei prăpăstii.
+tip_fall=Gravitația rămâne neînvinsă. Ai grijă unde calci lângă stânci și margini.
+tip_drowning_hammer=Construiai lângă apă, cu ciocanul în mână, și te-ai înecat. Fii atent la indicatorul de respirație chiar și în mijlocul unui proiect.
+tip_drowning=Ți s-a terminat aerul în timp ce înotai. Ține minte cât de departe ești de țărm.
+tip_burning_hammer=Ai luat foc în timp ce construiai, cu ciocanul în mână - dacă stai prea aproape de o stație de gătit sau de un foc când plasezi piese, se întâmplă exact asta. Ai grijă la flăcări.
+tip_burning=Daunele de foc continuă să curgă după ce flăcările te ating - părăsește imediat solul arzând, nu lupta prin el.
+tip_freezing=Ai murit înghețat - hainele călduroase și statul lângă surse de căldură contează mai mult decât cred oamenii.
+tip_edgeofworld=Ai mers mai departe decât permite lumea. Acolo nu e nimic - data viitoare întoarce-te la timp.
+tip_tree=Ucis de un copac căzut. Clasic. Gândește-te la ruta de scăpare când doborî ceva mare.
+
+fallback_1=Încă un viking intră la coadă pentru Valhalla.
+fallback_2=Putea fi mai rău. Putea fi un Charred.
+fallback_3=Serverul ține minte. Piatra ta funerară nu minte.
+fallback_4=Nimic special de data asta - doar ghinion sau o decizie proastă.
