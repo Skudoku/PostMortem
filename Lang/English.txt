@@ -38,6 +38,7 @@ ht_DrawBridge=Drawbridge
 ht_AshlandsLava=Lava
 
 dmg_None=Unknown
+dmg_NonPlayer=Environmental
 
 tip_nemesis=This isn't the first time. That same thing has killed you repeatedly now - whatever you're doing against it isn't working, so change the approach rather than the gear.
 tip_repeat_killer=Killed by the same thing twice in a row. Worth stopping to think about what it does differently than you expect before heading back.

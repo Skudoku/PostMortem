@@ -65,6 +65,12 @@ namespace DeathRecap
             string key;
             switch (type)
             {
+                // NOTE: HitData.DamageTypes.GetMajorityDamageType() defaults to DamageType.Damage
+                // and only overrides it if a MORE SPECIFIC field (slash/pierce/fire/etc.) is
+                // strictly greater - m_blunt is never itself compared. In practice this means
+                // "Damage" is what a plain blunt hit reports as, not a rare fallback case - so it
+                // needs a real label, not just an unlocalized "dmg_Damage" leaking through.
+                case HitData.DamageType.Damage: key = "$inventory_damage"; break;
                 case HitData.DamageType.Blunt: key = "$inventory_blunt"; break;
                 case HitData.DamageType.Slash: key = "$inventory_slash"; break;
                 case HitData.DamageType.Pierce: key = "$inventory_pierce"; break;
