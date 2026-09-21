@@ -77,3 +77,4 @@ tip_lowfood=Du havde kun én mad aktiv, så du kæmpede med en brøkdel af dit m
 tip_notrested=Du var ikke Udhvilet, da du døde. Udhvilet-buffen giver gratis helbreds- og udholdenhedsregeneration - sov eller stå ved et bål, før du tager afsted.
 tip_boss=Det var en boss. Bosser belønner tålmodighed: lær angrebenes varsler, gem udholdenhed til undvigelser, og tag den rigtige modstandsmjød med.
 tip_oneshot_healthy=Du gik fra næsten fuldt helbred til død næsten øjeblikkeligt. Noget derovre slår langt hårdere, end din nuværende rustning kan absorbere - grib den kamp anderledes an.
+dmg_NonPlayer=Miljøskade

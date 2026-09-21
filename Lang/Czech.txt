@@ -77,3 +77,4 @@ tip_lowfood=Měl jsi aktivní jen jedno jídlo, takže jsi bojoval se zlomkem mo
 tip_notrested=Nebyl jsi Odpočatý, když jsi zemřel. Bonus Odpočinku je regenerace zdraví a výdrže zdarma - vyspi se nebo se postav k ohni, než vyrazíš.
 tip_boss=To byl boss. Bossové odměňují trpělivost: nauč se předzvěsti útoků, šetři výdrž na úhyby a vezmi si správnou medovinu odolnosti.
 tip_oneshot_healthy=Z téměř plného zdraví jsi byl mrtvý téměř okamžitě. Něco tam udeří mnohem silněji, než tvoje současné brnění dokáže pohltit - k tomu boji přistup jinak.
+dmg_NonPlayer=Poškození prostředím

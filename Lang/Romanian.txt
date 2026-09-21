@@ -77,3 +77,4 @@ tip_lowfood=Aveai o singură mâncare activă, deci luptai cu o fracțiune din v
 tip_notrested=Nu erai Odihnit când ai murit. Bonusul Odihnit oferă regenerare gratuită de viață și rezistență - dormi sau stai lângă un foc înainte să pleci.
 tip_boss=Acela era un boss. Bosșii răsplătesc răbdarea: învață semnele atacurilor, păstrează rezistență pentru ferire și ia miedul de rezistență potrivit.
 tip_oneshot_healthy=Ai trecut de la viață aproape plină la mort aproape instantaneu. Ceva de acolo lovește mult mai tare decât poate absorbi armura ta actuală - abordează lupta aceea altfel.
+dmg_NonPlayer=Daune de mediu

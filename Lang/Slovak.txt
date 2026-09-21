@@ -77,3 +77,4 @@ tip_lowfood=Mal si aktívne len jedno jedlo, takže si bojoval so zlomkom možn�
 tip_notrested=Nebol si Oddýchnutý, keď si zomrel. Bonus Oddychu je regenerácia zdravia a výdrže zadarmo - vyspi sa alebo sa postav k ohňu, než vyrazíš.
 tip_boss=To bol boss. Bossovia odmeňujú trpezlivosť: nauč sa predzvesti útokov, šetri výdrž na úhyby a vezmi si správnu medovinu odolnosti.
 tip_oneshot_healthy=Z takmer plného zdravia si bol mŕtvy takmer okamžite. Niečo tam udrie oveľa silnejšie, než tvoje súčasné brnenie dokáže pohltiť - k tomu boju pristúp inak.
+dmg_NonPlayer=Poškodenie prostredím

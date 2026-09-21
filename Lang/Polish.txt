@@ -77,3 +77,4 @@ tip_lowfood=Miałeś aktywne tylko jedno jedzenie, więc walczyłeś z ułamkiem
 tip_notrested=Nie byłeś Wypoczęty, gdy zginąłeś. Premia Wypoczęcia to darmowa regeneracja zdrowia i wytrzymałości - prześpij się lub stań przy ogniu przed wyruszeniem.
 tip_boss=To był boss. Bossowie nagradzają cierpliwość: naucz się zapowiedzi ataków, zachowaj wytrzymałość na uniki i weź odpowiedni miód odporności.
 tip_oneshot_healthy=Przeszedłeś od niemal pełnego zdrowia do śmierci niemal natychmiast. Coś tam uderza znacznie mocniej, niż twoja obecna zbroja jest w stanie wchłonąć - podejdź do tej walki inaczej.
+dmg_NonPlayer=Obrażenia środowiskowe

@@ -77,3 +77,4 @@ fallback_1=Vēl viens vikings nostājas rindā uz Valhallu.
 fallback_2=Varēja būt sliktāk. Varēja būt Charred.
 fallback_3=Serveris atceras. Tavs kapakmens nemelo.
 fallback_4=Nekā īpaša šoreiz - vienkārši neveiksme vai slikts lēmums.
+dmg_NonPlayer=Vides kaitējums

@@ -77,3 +77,4 @@ tip_lowfood=Du hade bara en mat aktiv, så du slogs med en bråkdel av din möjl
 tip_notrested=Du var inte Utvilad när du dog. Utvilad-buffen ger gratis hälso- och uthållighetsregen - sov eller stå vid en eld innan du ger dig av.
 tip_boss=Det där var en boss. Bossar belönar tålamod: lär dig attackernas förvarningar, spara uthållighet till undanmanövrar och ta med rätt motståndsmjöd.
 tip_oneshot_healthy=Du gick från nästan full hälsa till död nästan omedelbart. Något där slår långt hårdare än din nuvarande rustning klarar av - ta den striden på ett annat sätt.
+dmg_NonPlayer=Miljöskada

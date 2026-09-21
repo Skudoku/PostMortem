@@ -77,3 +77,4 @@ tip_lowfood=Avevi solo un cibo attivo, quindi combattevi con una frazione della 
 tip_notrested=Non eri Riposato quando sei morto. Il bonus Riposato è rigenerazione gratuita di salute e stamina - dormi o fermati vicino a un fuoco prima di partire.
 tip_boss=Quello era un boss. I boss premiano la pazienza: impara i segnali d'attacco, tieni stamina per le schivate e porta l'idromele di resistenza giusto.
 tip_oneshot_healthy=Sei passato da quasi piena salute a morto quasi all'istante. Qualcosa lì colpisce molto più forte di quanto la tua armatura attuale possa assorbire - affronta quel combattimento diversamente.
+dmg_NonPlayer=Danno ambientale

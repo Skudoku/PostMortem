@@ -77,3 +77,4 @@ tip_lowfood=Imao si aktivnu samo jednu hranu, pa si se borio s djelićem moguće
 tip_notrested=Nisi bio Odmoran kad si poginuo. Bonus Odmora daje besplatnu regeneraciju zdravlja i izdržljivosti - odspavaj ili stani kraj vatre prije polaska.
 tip_boss=To je bio boss. Bossovi nagrađuju strpljenje: nauči najave napada, čuvaj izdržljivost za izmicanja i ponesi pravu medovinu otpornosti.
 tip_oneshot_healthy=Prešao si iz gotovo punog zdravlja u smrt gotovo istog trena. Nešto ondje udara daleko jače nego što tvoj trenutni oklop može podnijeti - toj borbi pristupi drugačije.
+dmg_NonPlayer=Okolišna šteta

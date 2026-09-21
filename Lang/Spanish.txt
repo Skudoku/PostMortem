@@ -77,3 +77,4 @@ tip_lowfood=Solo tenías una comida activa, así que peleabas con una fracción 
 tip_notrested=No estabas Descansado cuando moriste. El bono Descansado es regeneración gratuita de salud y aguante - duerme o quédate junto a una hoguera antes de salir.
 tip_boss=Eso era un jefe. Los jefes premian la paciencia: aprende las señales de ataque, guarda aguante para esquivar y lleva el aguamiel de resistencia adecuado.
 tip_oneshot_healthy=Pasaste de casi salud completa a muerto casi al instante. Algo de ahí pega mucho más fuerte de lo que tu armadura actual puede absorber - afronta esa pelea de otra manera.
+dmg_NonPlayer=Daño ambiental

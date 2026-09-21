@@ -77,3 +77,4 @@ tip_lowfood=Tu n'avais qu'une seule nourriture active, donc tu te battais avec u
 tip_notrested=Tu n'étais pas Reposé à ta mort. Le bonus Reposé offre de la régénération gratuite de santé et d'endurance - dors ou reste près d'un feu avant de partir.
 tip_boss=C'était un boss. Les boss récompensent la patience : apprends les signes d'attaque, garde de l'endurance pour esquiver, et emporte le bon hydromel de résistance.
 tip_oneshot_healthy=Tu es passé de presque pleine santé à mort en un instant. Quelque chose là-bas frappe bien plus fort que ton armure actuelle ne peut encaisser - aborde ce combat autrement.
+dmg_NonPlayer=Dégâts environnementaux

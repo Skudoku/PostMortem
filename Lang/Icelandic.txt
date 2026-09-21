@@ -77,3 +77,4 @@ fallback_1=Enn einn víkingur stillir sér upp í röðina til Valhallar.
 fallback_2=Þetta hefði getað verið verra. Þetta hefði getað verið Charred.
 fallback_3=Þjónninn man. Legsteinninn þinn lýgur ekki.
 fallback_4=Ekkert sérstakt í þetta sinn - bara óheppni, eða slæm ákvörðun.
+dmg_NonPlayer=Umhverfisskaði

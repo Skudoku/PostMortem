@@ -77,3 +77,4 @@ tip_lowfood=Du hattest nur eine Nahrung aktiv und hast damit mit einem Bruchteil
 tip_notrested=Du warst beim Sterben nicht Ausgeruht. Der Ausgeruht-Bonus ist kostenlose Gesundheits- und Ausdauerregeneration - schlafe oder stell dich ans Feuer, bevor du aufbrichst.
 tip_boss=Das war ein Boss. Bosse belohnen Geduld: lerne die Angriffsanzeichen, halte Ausdauer zum Ausweichen bereit und bring den passenden Widerstands-Met mit.
 tip_oneshot_healthy=Du bist von nahezu voller Gesundheit fast augenblicklich gestorben. Etwas dort schlägt weit härter zu, als deine Rüstung abfangen kann - geh diesen Kampf anders an.
+dmg_NonPlayer=Umgebungsschaden

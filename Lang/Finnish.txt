@@ -77,3 +77,4 @@ tip_lowfood=Sinulla oli vain yksi ruoka aktiivisena, joten taistelit murto-osall
 tip_notrested=Et ollut Levännyt kuollessasi. Levännyt-bonus antaa ilmaista terveyden ja kestävyyden palautumista - nuku tai seiso tulen äärellä ennen lähtöä.
 tip_boss=Se oli pomo. Pomot palkitsevat kärsivällisyyden: opettele hyökkäysten ennakkomerkit, säästä kestävyyttä väistöihin ja ota mukaan oikea vastustuskykysima.
 tip_oneshot_healthy=Siirryit lähes täydestä terveydestä kuolleeksi lähes välittömästi. Jokin siellä lyö paljon kovempaa kuin nykyinen haarniskasi kestää - lähesty sitä taistelua toisin.
+dmg_NonPlayer=Ympäristövahinko

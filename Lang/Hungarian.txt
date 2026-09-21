@@ -77,3 +77,4 @@ tip_lowfood=Csak egy ételed volt aktív, így a lehetséges életerőd és áll
 tip_notrested=Nem voltál Kipihent, amikor meghaltál. A Kipihent bónusz ingyenes életerő- és állóképesség-regenerálás - aludj, vagy állj a tűz mellé, mielőtt útnak indulsz.
 tip_boss=Az egy főellenség volt. A főellenségek a türelmet jutalmazzák: tanuld meg a támadások jeleit, tartalékolj állóképességet a kitérésekhez, és vidd magaddal a megfelelő ellenállás-mézsört.
 tip_oneshot_healthy=Szinte teljes életerőről szinte azonnal haltál meg. Valami ott sokkal nagyobbat üt, mint amennyit a jelenlegi páncélod elnyelhet - másképp állj hozzá ahhoz a harchoz.
+dmg_NonPlayer=Környezeti sérülés

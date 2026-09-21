@@ -77,3 +77,4 @@ tip_lowfood=Só tinhas uma comida ativa, por isso lutavas com uma fração da vi
 tip_notrested=Não estavas Descansado quando morreste. O bónus Descansado é regeneração grátis de vida e resistência - dorme ou fica junto a uma fogueira antes de partires.
 tip_boss=Aquilo era um chefe. Os chefes recompensam a paciência: aprende os sinais de ataque, guarda resistência para esquivas e leva o hidromel de resistência certo.
 tip_oneshot_healthy=Passaste de quase vida cheia a morto quase instantaneamente. Algo ali bate muito mais forte do que a tua armadura atual aguenta - aborda esse combate de outra forma.
+dmg_NonPlayer=Dano ambiental

@@ -77,3 +77,4 @@ tip_lowfood=Sadece bir yemeğin aktifti, yani olası canının ve dayanıklılı
 tip_notrested=Öldüğünde Dinlenmiş değildin. Dinlenmiş bonusu bedava can ve dayanıklılık yenilenmesi sağlar - yola çıkmadan önce uyu ya da ateşin yanında dur.
 tip_boss=O bir patrondu. Patronlar sabrı ödüllendirir: saldırı işaretlerini öğren, kaçışlar için dayanıklılık sakla ve doğru direnç balını yanına al.
 tip_oneshot_healthy=Neredeyse tam candan neredeyse anında öldün. Oradaki bir şey mevcut zırhının emebileceğinden çok daha sert vuruyor - o dövüşe farklı yaklaş.
+dmg_NonPlayer=Çevresel hasar

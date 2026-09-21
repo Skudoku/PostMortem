@@ -77,3 +77,4 @@ tip_lowfood=Du hadde bare én mat aktiv, så du kjempet med en brøkdel av mulig
 tip_notrested=Du var ikke Uthvilt da du døde. Uthvilt-buffen gir gratis helse- og utholdenhetsregenerering - sov eller stå ved et bål før du drar ut.
 tip_boss=Det var en boss. Bosser belønner tålmodighet: lær angrepsvarslene, spar utholdenhet til unnvikelser, og ta med riktig motstandsmjød.
 tip_oneshot_healthy=Du gikk fra nesten full helse til død nesten umiddelbart. Noe der slår langt hardere enn rustningen din tåler - gå inn i den kampen på en annen måte.
+dmg_NonPlayer=Miljøskade

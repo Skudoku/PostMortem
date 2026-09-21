@@ -2,7 +2,7 @@
 line_killed_by=Nužudė {0} ({1})
 line_died_to=Mirė nuo {0} ({1})
 line_died_to_while=Mirė nuo {0}, būsena: {1} ({2})
-line_in_biome={0} biome
+line_in_biome=biome: {0}
 line_other_player_death={0} žuvo: {1}
 
 Burning=Dega
@@ -77,3 +77,4 @@ fallback_1=Dar vienas vikingas stoja į eilę į Valhalą.
 fallback_2=Galėjo būti blogiau. Galėjo būti Charred.
 fallback_3=Serveris prisimena. Tavo antkapis nemeluoja.
 fallback_4=Nieko ypatingo šįkart - tiesiog nesėkmė arba blogas sprendimas.
+dmg_NonPlayer=Aplinkos žala
